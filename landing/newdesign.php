@@ -1,20 +1,44 @@
-<html lang="en" class="yes-js js_active js webkit chrome mac translated-ltr">
-<head>
+<html lang="en" class="yes-js js_active js webkit chrome mac translated-ltr"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="format-detection" content="telephone=no">
 <link rel="pingback" href="https://wild-scene.com/jetb/xmlrpc.php">
 <link rel="shortcut icon" href="https://wild-scene.com/jetb/wp-content/uploads/2019/04/wild_logo_OL.png">
 <link rel="apple-touch-icon" href="https://wild-scene.com/jetb/wp-content/uploads/2019/04/wild_logo_OL.png">
-<title>Wild Scene｜Wild Scene公式オンラインショップ</title>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<script>
+<!--▼-追加CSS-▼-->
 
-</script>
-<style type="text/css">
+				<script src="https://connect.facebook.net/signals/config/883659738714001?v=2.9.22&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WW3BKFG"></script><script async="" src="https://static.addtoany.com/menu/page.js"></script><script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+			<title>Wild Scene｜Wild Scene公式オンラインショップ</title>
+
+<!-- All In One SEO Pack 3.6.2[613,820] -->
+<meta name="description" content="Wild Sceneではオリジナルのメタルジグ「Wild Scene（ワイルドシーン）」をはじめ、当店こだわりのソルトルアーを多数取り扱っております！ルアーロストやキャストミス・根がかりが気になり狙えなかったポイントも大胆に攻め大物狙いを可能に！週末アングラーのお財布に優しいコストパフォーマンスでご提供しております！">
+
+<meta name="keywords" content="WildScene　ソルトルアー,WildScene　メタルジグ,ショアジギング,">
+<link rel="next" href="https://wild-scene.com/page/2/">
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://wild-scene.com/#organization","url":"https://wild-scene.com/","name":"Wild Scene｜Wild Scene公式オンラインショップ","sameAs":[]},{"@type":"WebSite","@id":"https://wild-scene.com/#website","url":"https://wild-scene.com/","name":"Wild Scene｜Wild Scene公式オンラインショップ","publisher":{"@id":"https://wild-scene.com/#organization"}},{"@type":"WebPage","@id":"https://wild-scene.com#webpage","url":"https://wild-scene.com","inLanguage":"ja","name":"Wild Scene｜Wild Scene公式オンラインショップ","isPartOf":{"@id":"https://wild-scene.com/#website"},"breadcrumb":{"@id":"https://wild-scene.com#breadcrumblist"},"description":"Wild Sceneではオリジナルのメタルジグ「Wild Scene（ワイルドシーン）」をはじめ、当店こだわりのソルトルアーを多数取り扱っております！ルアーロストやキャストミス・根がかりが気になり狙えなかったポイントも大胆に攻め大物狙いを可能に！週末アングラーのお財布に優しいコストパフォーマンスでご提供しております！","about":{"@id":"https://wild-scene.com/#organization"}},{"@type":"BreadcrumbList","@id":"https://wild-scene.com#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://wild-scene.com/","url":"https://wild-scene.com/","name":"Wild Scene｜Wild Scene公式オンラインショップ"}}]}]}</script>
+<link rel="canonical" href="https://wild-scene.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Wild Scene｜Wild Scene公式オンラインショップ">
+<meta property="og:description" content="Wild Sceneではオリジナルのメタルジグ「Wild Scene（ワイルドシーン）」をはじめ、当店こだわりのソルトルアーを多数取り扱っております！ルアーロストやキャストミス・根がかりが気になり狙えなかったポイントも大胆に攻め大物狙いを可能に！週末アングラーのお財布に優しいコストパフォーマンスでご提供しております！">
+<meta property="og:url" content="https://wild-scene.com/">
+<meta property="og:site_name" content="Wild Scene｜Wild Scene公式オンラインショップ">
+<meta property="og:image" content="https://wild-scene.com/jetb/wp-content/uploads/2019/10/shop_board.jpg">
+<meta property="og:image:secure_url" content="https://wild-scene.com/jetb/wp-content/uploads/2019/10/shop_board.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Wild Scene｜Wild Scene公式オンラインショップ">
+<meta name="twitter:description" content="Wild Sceneではオリジナルのメタルジグ「Wild Scene（ワイルドシーン）」をはじめ、当店こだわりのソルトルアーを多数取り扱っております！ルアーロストやキャストミス・根がかりが気になり狙えなかったポイントも大胆に攻め大物狙いを可能に！週末アングラーのお財布に優しいコストパフォーマンスでご提供しております！">
+<meta name="twitter:image" content="https://wild-scene.com/jetb/wp-content/uploads/2019/10/shop_board.jpg">
+<!-- All In One SEO Pack -->
+<link rel="dns-prefetch" href="//yubinbango.github.io">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wild-scene.com\/jetb\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://wild-scene.com/jetb/wp-includes/js/wp-emoji-release.min.js?ver=5.4.2" type="text/javascript" defer=""></script>
+	<style type="text/css">
 
 
 html{
@@ -57,8 +81,9 @@ html{
     .p-contents01__title{
       font-size: 1.7rem;
     font-weight: bold;
-    border-bottom:3px solid #6fc0cc;
-    color:#000
+    border-bottom:3px groove #6fc0cc;
+    color:#000;
+    width:fit-content;
     }
 /*
     @media only screen and (max-width: 575px)  {
@@ -114,7 +139,7 @@ html{
       line-height: 32px;
     }
     .p-contents03{
-      background-color: #92bfcd;
+      background:url("greyBg.png");
       clear:both
     }
     .p-contents03__txt {
@@ -209,7 +234,7 @@ img{    max-width: 100%;
       background-size: cover;
     background-attachment: fixed!important;
     height: 45vh;
-    }
+    width:100%    }
 
     #scroll-down{
         position: absolute;
@@ -223,6 +248,8 @@ img{    max-width: 100%;
     letter-spacing: 2.5px;
     }
 .about img{box-shadow: 12px 12px 0px -1px #F8DDA8;
+  height: 350px;
+    width: 270px;
 }
 .leftBg{background: #F0E569;font-size: 120px;}
 .rightBg{background: #86CAD0;font-size: 120px;}
@@ -230,7 +257,7 @@ img{    max-width: 100%;
     position: relative;
     bottom: 50px;}
 
-.section4 img{box-shadow: 33px 33px 0px -1px #86CAD0;
+.section4 img{box-shadow: 10px 10px 0px -1px #86CAD0;
     width: 80% !important;
 }
 .section4 .col-6{display: flex;flex-direction: column;justify-content: center;}
@@ -279,6 +306,10 @@ img{    max-width: 100%;
   background: linear-gradient(90deg, #FFF 70%, #F3F3F3 30%);
   padding:80px 0
 }
+.slideImg2{
+  background: linear-gradient(90deg, #FFF 70%, #f7f787 30%);
+  padding:80px 0
+}
 .cardTitle{
   font-size:1.5rem
 }
@@ -299,40 +330,245 @@ img{    max-width: 100%;
     /* margin: 5px; */
     padding: 20px;
 }
-
+.pageHdr h1{
+  font-size:50px;
+  color:#fff;
+  padding-top: 10vh;
+  letter-spacing: 10;
+}
+.pageHdr .col-6 img{
+  width:50%;
+}
+.content2 h1{font-size: 6rem;}
+.table thead tr th, .table tbody tr td {
+    border: none;
+}
+.sample-section-wrap {
+  position: relative;
+  background-color: white;
+}
+.header-section {
+position: fixed;
+width: 100%;
+} 
 </style>
 	
+	<link rel="stylesheet" id="validate-engine-css-css" href="https://wild-scene.com/jetb/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.13" type="text/css" media="all">
+<link rel="stylesheet" id="colorbox-theme1-css" href="https://wild-scene.com/jetb/wp-content/plugins/jquery-colorbox/themes/theme1/colorbox.css?ver=4.6.2" type="text/css" media="screen">
+<link rel="stylesheet" id="sb_instagram_styles-css" href="https://wild-scene.com/jetb/wp-content/plugins/instagram-feed/css/sb-instagram-2-2.min.css?ver=2.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://wild-scene.com/jetb/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wc-block-style-css" href="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.16" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-selectBox-css" href="https://wild-scene.com/jetb/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="yith-wcwl-font-awesome-css" href="https://wild-scene.com/jetb/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="yith-wcwl-main-css" href="https://wild-scene.com/jetb/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=3.0.11" type="text/css" media="all">
+<link rel="stylesheet" id="biz-cal-style-css" href="https://wild-scene.com/jetb/wp-content/plugins/biz-calendar/biz-cal.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://wild-scene.com/jetb/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.2.2" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.2.2" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="wcct_public_css-css" href="https://wild-scene.com/jetb/wp-content/plugins/finale-woocommerce-sales-countdown-timer-discount/assets/css/wcct_combined.min.css?ver=2.12.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://wild-scene.com/jetb/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce_prettyPhoto_css-css" href="//wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=5.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wc-gateway-linepay-smart-payment-buttons-css" href="https://wild-scene.com/jetb/wp-content/plugins/woocommerce-for-japan/assets/css/linepay_button.css?ver=5.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="style-sheet-css" href="https://wild-scene.com/jetb/wp-content/themes/jet-cms14-c/style.css?ver=5.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="JetB_press-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="https://wild-scene.com/jetb/wp-content/plugins/tablepress/css/default.min.css?ver=1.11" type="text/css" media="all">
+<link rel="stylesheet" id="addtoany-css" href="https://wild-scene.com/jetb/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" type="text/css" media="all">
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jQueryColorboxSettingsArray = {"jQueryColorboxVersion":"4.6.2","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"false","colorboxSlideshowAuto":"false","colorboxScalePhotos":"true","colorboxPreloading":"false","colorboxOverlayClose":"true","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"close","colorboxNext":"next","colorboxPrevious":"previous","colorboxSlideshowStart":"start slideshow","colorboxSlideshowStop":"stop slideshow","colorboxCurrent":"{current} of {total} images","colorboxXhrError":"This content failed to load.","colorboxImgError":"This image failed to load.","colorboxImageMaxWidth":"95%","colorboxImageMaxHeight":"95%","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"false","colorboxLinkWidth":"false","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"","autoHideFlash":"","autoColorbox":"true","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.4.33"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6.2"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var bizcalOptions = {"holiday_title":"\u5b9a\u4f11\u65e5","sun":"on","sat":"on","holiday":"on","temp_holidays":"2013-01-02\r\n2013-01-03\r\n","temp_weekdays":"","eventday_title":"\u30a4\u30d9\u30f3\u30c8\u958b\u50ac\u65e5","eventday_url":"","eventdays":"","month_limit":"\u5236\u9650\u306a\u3057","nextmonthlimit":"12","prevmonthlimit":"12","plugindir":"https:\/\/wild-scene.com\/jetb\/wp-content\/plugins\/biz-calendar\/","national_holiday":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/biz-calendar/calendar.js?ver=2.2.0"></script>
+<link rel="https://api.w.org/" href="https://wild-scene.com/wp-json/">
+<link rel="stylesheet" href="style.css">
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "共有",
+	Save: "ブックマーク",
+	Subscribe: "購読",
+	Email: "メール",
+	Bookmark: "ブックマーク",
+	ShowAll: "すべて表示する",
+	ShowLess: "小さく表示する",
+	FindServices: "サービスを探す",
+	FindAnyServiceToAddTo: "追加するサービスを今すぐ探す",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "メールでシェアする",
+	SubscribeViaEmail: "メールで購読する",
+	BookmarkInYourBrowser: "ブラウザにブックマーク",
+	BookmarkInstructions: "このページをブックマークするには、 Ctrl+D または \u2318+D を押下。",
+	AddToYourFavorites: "お気に入りに追加",
+	SendFromWebOrProgram: "任意のメールアドレスまたはメールプログラムから送信",
+	EmailProgram: "メールプログラム",
+	More: "詳細&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" type="text/css">
-</head>
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
 
-<body class="home blog theme-jet-cms14-c woocommerce-js" ontouchstart="" style="">
+<link rel="stylesheet" href="https://wild-scene.com/jetb/wp-content/plugins/count-per-day/counter.css" type="text/css">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.2.0/dist/css/yakuhanjp.min.css">
+<link rel="stylesheet" href="https://jetb.co.jp/ec-king/common/css/slick.css" type="text/css">
+<link rel="stylesheet" href="https://jetb.co.jp/ec-king/common/css/slick-theme.css" type="text/css">
+<link rel="stylesheet" href="https://jetb.co.jp/ec-king/common/css/jquery.mCustomScrollbar.css" type="text/css">
+
+<link rel="stylesheet" href="https://wild-scene.com/jetb/wp-content/themes/jet-cms14-c/index.css" type="text/css">
+
+<link rel="stylesheet" href="https://jetb.co.jp/ec-king/common/css/modal.css" type="text/css">
+<link rel="stylesheet" href="https://jetb.co.jp/ec-king/tpl_c/css/common.css" type="text/css">
+<link rel="stylesheet" href="https://jetb.co.jp/ec-king/tpl_c/css/media.css" type="text/css">
+<link rel="stylesheet" href="https://jetb.co.jp/ec-king/common/css/woo.css" type="text/css">
+<link rel="stylesheet" href="https://wild-scene.com/jetb/wp-content/themes/jet-cms14-c/Jet_Tpl_style.css" type="text/css">
+<link rel="stylesheet" href="https://wild-scene.com/jetb/wp-content/themes/jet-cms14-c/custom/custom.css" type="text/css">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WW3BKFG');</script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script><style type="text/css">undefined</style><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/966187040/?random=1595138705143&amp;cv=9&amp;fst=1595138705143&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=900&amp;u_w=1440&amp;u_ah=828&amp;u_aw=1440&amp;u_cd=30&amp;u_his=2&amp;u_tz=540&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg783&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwild-scene.com%2F&amp;tiba=Wild%20Scene%EF%BD%9CWild%20Scene%E5%85%AC%E5%BC%8F%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+	<!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+<body class="home blog theme-jet-cms14-c woocommerce-js" ontouchstart="" style=""><div id="yith-wcwl-popup-message" style="display: none;"><div id="yith-wcwl-message"></div></div>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WW3BKFG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 	<div id="top" class="allwrapper tpl_c gthc opened-full">
 
+		<header id="upper" class="head_bg cf">
+			<h1><a href="https://wild-scene.com/"><img src="https://wild-scene.com/jetb/wp-content/uploads/2019/04/rogo3.jpg" alt="Wild Scene｜Wild Scene Official online shop Wild Scene handles a lot of salt lure that we are particular about, including the original metal jig &quot;Wild Scene&quot;!  It is possible to aim big game by boldly attacking points that could not be aimed because lure lost, cast mistakes and rooting are worrisome!  We offer it at a cost performance that is kind to the weekend angler's wallet!"></a></h1>
 
 
-    <main class="index_area">
+			<div class="menu-trigger">
+				<div class="trigger_wrap">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<p>menu</p>
+			</div>
+			<nav class="g_nav_sp sp cf" style="display: none;">
+				<ul id="menu-menu1" class="g_nav_menu menu"><li class="current"><a href="https://wild-scene.com/" aria-current="page">HOME<span>ホーム</span></a></li>
+<li><a href="https://wild-scene.com/about-wildscence/">WILD SCENCE<span>Wild Sceneについて</span></a></li>
+
+<li class="has-child"><a href="https://wild-scene.com/items/">ITEMS<span>商品一覧</span></a>
+<ul class="sub-menu">
+	<li><a href="https://wild-scene.com/product-category/metal-jig/">メタルジグ</a></li>
+	<li><a href="https://wild-scene.com/product-category/metal-vibration/">メタルバイブレーション</a></li>
+	<li><a href="https://wild-scene.com/product-category/micro-jig/">マイクロジグ</a></li>
+	<li><a href="https://wild-scene.com/product-category/assist-hook/">アシストフック</a></li>
+	<li><a href="https://wild-scene.com/product-category/headlight/">ヘッドライト</a></li>
+	<li><a href="https://wild-scene.com/product-category/other/">その他</a></li>
+	<li><a href="https://wild-scene.com/feature_list/">FEATURE</a></li>
+	<li><a href="https://wild-scene.com/sale/">SALE</a></li>
+</ul>
+<span class="btn-icon"></span></li>
+<li><a href="https://wild-scene.com/news%ef%bc%86blog/">NEWS＆BLOG<span>新着情報・ブログ</span></a></li>
+<li class="has-child"><a href="https://wild-scene.com/guide/">GUIDE<span>ご利用ガイド</span></a>
+<ul class="sub-menu">
+	<li><a href="https://wild-scene.com/guide/faq/">FAQ</a></li>
+	<li><a href="https://wild-scene.com/guide/privacy/">プライバシーポリシー</a></li>
+	<li><a href="https://wild-scene.com/guide/law/">特定商取引に基づく表記</a></li>
+</ul>
+<span class="btn-icon"></span></li>
+<li><a href="https://wild-scene.com/my-account/">MY PAGE<span>マイページ</span></a></li>
+<li><a href="https://wild-scene.com">New Menu<span>New Menu</span></a></li>
+</ul>			</nav>
+			<nav class="g_nav g_nav_pc pc cf">
+				<ul id="menu-menu1-1" class="g_nav_menu menu"><li class="current"><a href="https://wild-scene.com/" aria-current="page"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HOME</font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">home</font></font></span></a></li>
+<li><a href="https://wild-scene.com/about-wildscence/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WILD SCENCE</font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About Wild Scene</font></font></span></a></li>
+
+<li><a href="https://wild-scene.com/items/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ITEMS</font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Product list</font></font></span></a>
+<ul class="sub-menu">
+	<li><a href="https://wild-scene.com/product-category/metal-jig/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Metal jig</font></font></a></li>
+	<li><a href="https://wild-scene.com/product-category/metal-vibration/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Metal vibration</font></font></a></li>
+	<li><a href="https://wild-scene.com/product-category/micro-jig/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Micro jig</font></font></a></li>
+	<li><a href="https://wild-scene.com/product-category/assist-hook/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Assist hook</font></font></a></li>
+	<li><a href="https://wild-scene.com/product-category/headlight/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Headlight</font></font></a></li>
+	<li><a href="https://wild-scene.com/product-category/other/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Other</font></font></a></li>
+	<li><a href="https://wild-scene.com/feature_list/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FEATURE</font></font></a></li>
+	<li><a href="https://wild-scene.com/sale/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SALE</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://wild-scene.com/news%ef%bc%86blog/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NEWS &amp; BLOG</font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">New Information/Blog</font></font></span></a></li>
+<li><a href="https://wild-scene.com/guide/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GUIDE</font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">User Guide</font></font></span></a>
+<ul class="sub-menu">
+	<li><a href="https://wild-scene.com/guide/faq/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FAQ</font></font></a></li>
+	<li><a href="https://wild-scene.com/guide/privacy/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">privacy policy</font></font></a></li>
+	<li><a href="https://wild-scene.com/guide/law/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Notation based on specific commercial transactions</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://wild-scene.com/my-account/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MY PAGE</font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">My page</font></font></span></a></li>
+<!--<li><a href="https://wild-scene.com">New Menu<span>New Menu</span></a></li>-->
+</ul>			</nav>
+			<p class="btn-search"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></p>
+			<div class="header-search l-absolute">
+				<form action="https://wild-scene.com/" method="get" id="jet_searchform-header">
+					<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input id="jet_searchBtn_header" type="submit" name="searchBtn" value=""></font></font>
+					<input id="jet_keywords_header" type="text" name="s" placeholder="">
+				</form>
+			</div>
+		</header>
+
+        <main class="index_area">
         <!--▼▼▼▼メインコンテンツエリアここから▼▼▼▼-->
         <div>
-          <section class="p-kv" style="height:50px;background: #6fc0cc;"></section>
         <section class="p-kv pageHdr">
-       
+          <h1 class="text-center  pb-4 pt-5">LIFE JACKET</h1>
+          <p class="text-center" style="color:#fff">あなたの命を守ります。 大切なあなた、大切な家族とずっと一緒にいたいから</p>
+          <div class="row pt-5" style="    position: relative;
+              top: 168px;
+              overflow: visible;
+              z-index: 10;">
+            <div class="col-6 text-center">
+              <img  src="header3.png"/>
+            </div>
+            <div class="col-6 text-center">
+              <img  src="header4.png"/>
+            </div>
+          </div>
+
             </section>
-        
-            <div class="pageHdr" style="height:60vh">
+            <div class="sample-section-wrap">
+            <div class="pageHdr sample-section" style="height:60vh">
+              
             <img src="header2.png" class="w-100" style="height:100%"/>
-       
+            <div style="background: transparent linear-gradient(180deg, #FFFFFF00 35%, #FFFFFF 100%) 0% 0% no-repeat padding-box;position:relative;top:-540px;height:100%"></div> 
+              
         </div></div>
-        <div  id="scroll-down">
+       <!-- <div  id="scroll-down">
             <div >
                
                 <div  class="text">
                      SCROLL </div>
             </div>
-        </div>
+        </div>-->
              <!--Content area -->
              <section class="about" style="">
         
@@ -341,7 +577,7 @@ img{    max-width: 100%;
         <div class="row">
         <div class="col-4">
             <div>
-                <img src="about-2.png"/>
+                <img src="about-1.png"/>
               </div><br>
             <p class="about__txt" >	
           特筆すべきは最先端の加工技術である3D立体裁断が優れた吸着性能を発揮していることです。首や肩、胸部に柔軟に密着し、着用時の肩ずれやゴワツキなどの不快感を和らげられるようになっています。<br>		
@@ -359,7 +595,7 @@ img{    max-width: 100%;
         </div>
         <div class="col-4">
             <div>
-                <img src="about-2.png"/>
+                <img src="about-3.png"/>
               </div><br>
             <p class="about__txt" >	
           特筆すべきは最先端の加工技術である3D立体裁断が優れた吸着性能を発揮していることです。首や肩、胸部に柔軟に密着し、着用時の肩ずれやゴワツキなどの不快感を和らげられるようになっています。<br>		
@@ -379,14 +615,16 @@ img{    max-width: 100%;
                    
                     ■ワイルドシーンのライフジャケットおすすめポイント<br></h1>
                   <div class="row">
-                  <div class="col-12">
+                  <div class="col-8">
                     <p class="p-contents01__txt">
                     安全性を確保できるだけでなく、釣りやカヌーなどのアウトドアを楽しく快適なものにしてくれます。<br>
                     安全性に優れたライフジャケットでも、使いやすさは異なります。<br>
                     少しでも快適なライフジャケットを選択するに越したことはありません。<br>
                     ワイルドシーンのライフジャケットには、安全性以外にもおすすめできるポイントが満載です。おすすめポイントを4つ紹介します。<br>	</p>												                                                      
                  </div>
-                
+                <div class="col-4">
+                  <img src="sec3.png"/>
+                </div>
                 </div>
                <!-- <ul class="p-contents01__block u-cf">
                   <li class="p-contents01__exa01 p-contents01__blockItem">
@@ -426,17 +664,18 @@ img{    max-width: 100%;
                  </div>
                 
                 </div>
-                <div class="row">
+                <div class="row content2">
     
-                  <div class="col-6 leftBg"><h1>ベスト タイプ</h1><img src="jacket.png" /></div>
+                  <div class="col-6 leftBg"><h1>ベスト</h1><h1 class="text-right"> タイプ</h1><img src="jacket.png" /></div>
                   <div class="col-6"><img src="pdtImg1.png" />
                     <img src="pdtImg2.png" /></div>
                 </div>
-                <div class="row">
+                <div class="row content2">
             
                   <div class="col-6"><img src="pdtImg3.png" /><img src="pdtImg4.png" /></div>
-                  <div class="col-6 rightBg"><h1>腰巻タイプ</h1><img src="jacket.png" /></div>
+                  <div class="col-6 rightBg"><h1>腰巻</h1><h1 class="text-right">タイプ</h1><img src="jacket.png" /></div>
                 </div>
+
                 <div class="row">
                   <div class="col-12">
                     <p class="p-contents01__txt text-center">
@@ -446,15 +685,16 @@ img{    max-width: 100%;
                        その動きやすさは、まるでライフジャケットを装着していない状態です。<br>
                         活発に動くウォータースポーツでも活用できます。<br>
           </p>	
-          <h1 class="p-contents01__title">
-            ●ライフジャケットの正しい装着方法<br></h1>
+
+          <h1 class="p-contents01__title mt-5" style="border-bottom: 3px solid #e3db5d;">
+            ライフジャケットの正しい装着方法<br></h1>
             <div class="row">
             
               <div class="col-6">   <p class="p-contents01__txt">
                 まず、ライフジャケットは各メーカーから多種多様な製品が出ていることから、目的や用途に合ったものを選択しましょう。装着する際は、付属のベルトを体に密着させるように意識します。	<br>	
           締め付けが悪いと水中に落ちたときに脱げてしまうケースがあるからです。水中でライフジャケットの位置を修正するのは困難であるため、事前の装着準備が重要です。股下ベルトがないライフジャケットは、腹回りのベルトを入念に締めるようにしましょう。<br>		
               </p>	</div>
-              <div class="col-6"><img src="jacket.png" /></div>
+              <div class="col-6"><img src="jacket-big.png" /></div>
             </div>
          										                                                      
                  </div>
@@ -467,21 +707,22 @@ img{    max-width: 100%;
               <section class="p-contents03" style="background-color:#E8E8E8">
         
                 <div class="c-section">			
-        <h1 class="p-contents03__title" style="">■3D立体裁断&メッシュ構造で<br>安全性を考慮した装備</h1>	<br>	
+        <h1 class="p-contents03__title" style="">3D立体裁断&メッシュ構造で<br>安全性を考慮した装備</h1>	<br>	
         <div class="row p-2 m-5" style="border: 6px solid #fff;">
   
           <div class="col-4"><img src="image01.jpg"/></div>
           <div class="col-8">
-          <p class="p-contents03__txt col-8" >	
+          <p class="p-contents03__txt " >	
           特筆すべきは最先端の加工技術である3D立体裁断が優れた吸着性能を発揮していることです。首や肩、胸部に柔軟に密着し、着用時の肩ずれやゴワツキなどの不快感を和らげられるようになっています。<br>		
           また、体に触れる部分がメッシュ構造になっているので、熱気を逃がしてくれます。蒸れにくいことから、真夏のアウトドアでも快適に装着できます。	<br></p>
         </div>
        </div>	
+       <br>
        <div class="row p-2 m-5" style="border: 6px solid #fff;">
   
        
         <div class="col-8">
-        <p class="p-contents03__txt col-8" >	
+        <p class="p-contents03__txt" >	
           ライフジャケットが作動しても、救助されなければ意味がありません。場合によっては、声を張り上げても気づいてもらえないこともあるでしょう。		<br>
           その点、ワイルドシーンのライフジャケットの内部にはホイッスルが付属されています。悪天候で視界の悪いシーンや、近くに人がいない状況でも落水したことを知らせることが可能です。<br>	
           加えて、ワイルドシーンのライフジャケットは、エッジにリフレクティブラインを採用しています。入射光を光源の方向にまっすぐ戻す仕組みで、効率的に光を反射することが可能です。<br>		
@@ -497,15 +738,16 @@ img{    max-width: 100%;
      
                 <section class="p-contents01">
         
-                        <div class="c-section">			
-                          <table class="table table-noborder ">
+                        <div class="c-section">		
+                          <h1 class="p-contents01__title" style="border-bottom:3px solid #e3db5d"	>膨張方式</h1>
+                          <table class="table table-noborder " style="border:none">
                             <tr>
-                              <td style="width:30%;background: cornsilk;" rowspan="2">
+                              <td style="width:23%;background:#EEEEEE;padding:5px" >
                                 <img src="img11.jpg" style=""/><br><br><br><br>
-                                <img src="img11.jpg" style=""/><br>
+                               
                               </td>
-                              <td style="width:50%;" >
-                                <p class="p-contents01__txt col-8" >	
+                              <td style="width:60%;" >
+                                <p class="p-contents01__txt" >	
                                   ライフジャケットは、自動膨張式と手動膨張式の2種類に分かれます。	<br>
                                   自動膨張式は、使い捨てのセンサー（スプール）が水を感知することで働き、バネの力でボンベの封に穴をあける仕組みです。<br>
                                   ライフジャケットを手動で作動させなくてよいので、泳ぎが苦手な方でも落水した際にパニックにならずに済みます。	<br>
@@ -516,9 +758,12 @@ img{    max-width: 100%;
                               </td>
                             </tr>
                             <tr>
-                             
+                              <td style="width:20%;background:#EEEEEE;padding:5px" >
+                                <img src="img11.jpg" style=""/><br><br><br><br>
+                               
+                              </td>
                               <td >
-                                <p class="p-contents01__txt col-8" >	
+                                <p class="p-contents01__txt" >	
                                   一方、手動膨張式はライフジャケットに備わっているホースを使い自分で膨らませる必要があります。<br>
                                     自動で膨張しないので誤作動のリスクが低く、水に濡れてしまうことがあるスポーツ（カヌー、水上スキー、サップフィッシング）などで活用できます。	</p>
                               </td>
@@ -744,32 +989,7 @@ img{    max-width: 100%;
        	
         <img class="w-100"  src="img23.jpg" />
         <br><br>
-        <h1 class="p-contents01__title text-center">■ライフジャケットが大切な命を守る	</h1>	<br>	
-        <div class="row">
-          <div class="col-6"> <p class="p-contents04__txt">	
-            釣りやカヌーなど、水辺のアウトドアでは危険はつきものです。せっかく楽しみにしていたイベントも、突然のトラブルによって悲しい事態に発展することもあります。<br>	
-          <br>
-          アウトドアで大切な命を失うことがあってはなりません。大切な命を守り、楽しい思い出を作るにはライフジャケットが不可欠です。<br>
-          ほんの少しの配慮で大切な子供の命を守れる	<br>	
-            
-          子供の将来のことを考えてみてください。わんぱくだった子供が暖かな家庭を築き、親御さんは孫に囲まれて幸せなひと時を過ごしているかもしれません。	<br>	
-            
-          しかし、アウトドアの水難事故は恐ろしいです。トラブルに巻き込まれれば、一瞬でそのような未来が失われてしまうかもしれません。	<br>	
-            
-          そうはいっても、子供の知的好奇心はとても旺盛。食べてはならないものを口に入れたり、冒険心を抑えられず秘密基地のような狭い場所に入ったりなど、ハラハラするケースもあるでしょう。<br>		
-            
-          水辺のアウトドアも同様です。好奇心を抑えられず、親御さんが目を離したうちに危険な場所で遊んでしまうかもしれません。	<br>	
-            
-          ただ、過保護になりすぎても子供の成長を妨げてしまいます。このようなジレンマでストレスを抱えていては、子供はもちろんのこと、親御さんもアウトドアを心から楽しめません。<br>		
-            
-          最低限の対策をすれば、トラブルに対する不安を和らげてくれます。何も難しいことではありません。	<br>	
-            
-          ほんの少しの配慮で、「家族で毎年アウトドアを楽しめる」、そんな当たり前の日常を守ることができるのです。	<br>	
-            
-          ライフジャケットを準備して、これから明るい未来を築いていく子供を守ってください。<br>		
-            </p></div>
-          <div class="col-6"></div>
-        </div>	
+      
               </div>					
        </section>
 
@@ -853,7 +1073,7 @@ img{    max-width: 100%;
         
             <div class="c-section">			
         <h1 class="p-contents01__title" style="border-bottom: none;">ライフジャケットをつけることがマナーから義務に	</h1>	<br>										
-        <p class="p-contents01__txt" >
+        <p class="" >
         
           ライフジャケットの装着によって、生存率は本当に高まるのでしょうか？ライフジャケットの効果をはじめ、<br>
           日本におけるライフジャケットの着用義務について紹介します。<br>	
@@ -870,7 +1090,7 @@ img{    max-width: 100%;
             <div class="col-6"> </div>
             <div class="col-12" style="background-color: #FAF111;height:100px;opacity: 0.1;">
             </div>
-            <div class="col-6 offset-6" >  <img class="w-100"  src="image10.jpg" style="position: absolute;
+            <div class="col-6 offset-6" >  <img class="w-100"  src="jacket-front.png" style="position: absolute;
               top: -200px;"/></div>
             <div class="col-6">
               
@@ -921,7 +1141,7 @@ img{    max-width: 100%;
         <br>
    
         <h1 class="p-contents01__title">最低限知っておきたいライフジャケットの選び方</h1>	<br>
-        <div class="row">
+        <div class="row mb-4">
           <div class="col-6">
 
         <p class="p-contents04__txt">
@@ -929,7 +1149,7 @@ img{    max-width: 100%;
           ライフジャケットを装着するのは命を守るためです。いかに見た目がおしゃれで動きやすいライフジャケットだとしても、品質が低ければ有事の際に機能しないこともありえます。<br>
            したがって、ライフジャケットを選択するときは特に安全性の高さにこだわりましょう。最低限、法定基準を満たすライフジャケットを選択することが大切です。</p>
         </div>
-        <div class="col-6">
+        <div class="col-6 section4">
           <img class="w-100" src="img25.jpg" />	</div>
           </div>
 
@@ -1026,7 +1246,7 @@ img{    max-width: 100%;
             <p class="content5Title">～安全で充実したFISHING Lifeを応援します～</p>
           <div class="row section4 mb-5">
             <div class="col-7">
-              <p class="content5Title">水辺の安全に対して</p>
+              <p class="p-contents01__title">水辺の安全に対して</p>
               <p class="p-contents01__blockTxt">
                 <p>私達が住む日本は、周りが海で囲まれています。そして四季を通して豊かな自然に恵まれ、各地様々な釣り場がたくさんあります。またその反面、私達は釣りを楽しむことであらゆる危険のリスクがあるということは言うまでもありません。私達は気象に対する適正な判断をしっかり身に付ける必要があるのです。
                   <br>
@@ -1047,7 +1267,7 @@ img{    max-width: 100%;
             <img class="w-100 m-5" src="image29.jpg" alt="">
         </div>
           <div class="col-7">
-            <p class="content5Title">【気象情報をこまめにチェックする】</p>
+            <p class="p-contents01__title">【気象情報をこまめにチェックする】</p>
             <p class="p-contents01__blockTxt">
               <p>釣行前には必ずテレビのニュースはもちろんのこと、パソコンやスマートフォンで気象情報を確認しておき、せめて自分が行こうとしているポイント周辺に警報や注意報が出ていないかを見ておきましょう。もし該当すればポイントを変更するか、日を改めて下さい。
                 <br><br>
@@ -1274,93 +1494,54 @@ img{    max-width: 100%;
 
 
 
+<section class="p-contents04 mb-5">
+        
+  <div class="c-section">			
+    <div class="row">
 
 
-<div class="text-center" ><img class="w-50"  src="image31.jpg" />	</div><br> 
-<h4 class="p-contents03__hdr"> ◇堤防	</h4> 
-<p class="p-contents03__txt" style="color: #fff;">
-各フィールドの中において最もポピュラーな場所はこの堤防です。場所によっては車を横付けできますし、老若男女、ファミリーから上級者まで楽しめます。気軽に釣りが出来る場所だからこそ、人が多く集まりトラブルも多いのが現状です。		<br><br>
+        <div class="col-6">
+         
+<h4 class="p-contents01__title" style="border-bottom: 3px solid #FCF787;"> Notes for night games	</h4> 
+<p class="p-contents01__txt" > 
+  Originally it used to be said that you can't catch fish unless it's dark, but nowadays the day game is well established. However, night games are generally easier to target for larger sizes. On the other hand, there are more things to watch out for than day games. The rate of occurrence of troubles (scaffolding without night lights, line troubles, etc.) and accidents (falling into the sea, etc.) due to a significantly narrowed field of view is high, so fishing with more than one person is first desirable as much as possible. .. First of all, be sure to wear the light when going out to the night game. You can choose from many types available at shops and on the Internet, from bright LED type lights on your head to those on your neck. Even if you haven't played a night game yet, be sure to purchase it in advance for the coming day.</p>
 
-特に堤防での重要なマナーは先行者に配慮が必要だということです。つまり竿を出す時に先行者の邪魔にならないように一定の間隔をあけたり、また一言「隣で釣りをしていいですか？」などと声かけをすると、トラブルになる確率も低くなります。		<br><br>
-
-また堤防では禁止場所の所も年々増加してきており、絶対金網や柵をよけて立ち入り禁止エリアでの釣りはやめましょう。	</p>
-<br><br>
-<br><br>	
-<h4 class="p-contents03__hdr">◇港	</h4>
-<p class="p-contents03__txt" style="color: #fff;">
-堤防と同様に人気の釣りスポットの港。港は変化にとんだ地形や多くの障害物から成り立っている為、魚にとってもすみやすい環境となる要素が多いのです。人が多く集まるということは、同じ釣り方の人もいれば違う釣り方の人、さらに狙うターゲットも人によって様々です。最低限度ルールを守らないとトラブルになりやすい場所でもあるのです。		<br><br>
-
-例ですが、エサ釣りでエサを撒いて魚をおびき寄せている横で平然とルアー釣りで”ジャカジャカ”ルアーを巻いていたら、せっかくの集まった魚も逃げてしまいかねませんよね。ですからお互いに一定の距離を保つ事がやはり重要になってきます。（一般的には10ｍ以上間隔を空けていればトラブルになることがほぼないそうです）		<br><br>
-
-最後に漁港では漁業者の邪魔をしないようにして下さい。そこで仕事をしている漁師さんにとっては生活がかかった大切な場所なので、迷惑にならないように釣りをしましょう。	</p>	<br><br>
-<br><br>
-
-
-<h4 class="p-contents03__hdr">◇テトラ	</h4>
-<p class="p-contents03__txt" style="color: #fff;">
-テトラはもともと消波ブロックから総称で呼ばれており、設置の理由は主に波による浸食を防ぐ為であると言われています。波の大きさに比例して、テトラのサイズも大きくなります。	<br><br>
-
-その為大型のテトラが設置されている場所などでは、大きな波やウネリ、速い潮が流れるということを知っておきましょう。それだけ危険度は高いので十分に気をつけて下さい。<br><br>	
-
-またテトラの中でも平面があるテトラは丸形に比べて足場が安定していますが、風が強い日は体が不安定になり危ないです。さらに海に近いテトラなどは薄ら海苔が生えて滑りやすいところもあり大変危険です。特に濡れているテトラには絶対乗らないようにしましょう。	<br><br>
-</p>
-<br><br>
-
-<h4 class="p-contents03__hdr">◇サーフ	</h4>
-<p class="p-contents03__txt" style="color: #fff;">
-サーフで注意すべき点は水・砂ともに立ち入りし過ぎないことです。ウエーダーを着ているからといって、水に立ち入る時はせめて膝下までにして下さい。これ以上深い所へ行かないようにと自分で線引きすることも大事です。急に深くなっている場所や不意の大波もあるので気をつけて下さい。	<br><br>
-
-また車の止める場所にも注意をしなければなりません。全国の中で一部の砂浜においては車で走っても問題ないところはありますが、基本は砂浜へ車で立ち入ってしまうと、スタックして抜け出せなくなる可能性がありますので十分注意しましょう。ポイントによってはサーファーや海水浴場がいるところがありますが、そこで釣りをするのはやめましょう。トラブルの原因になります。<br><br>	
-</p>
-<br><br>
-
-<h4 class="p-contents03__hdr">◇河口	</h4>
-<p class="p-contents03__txt" style="color: #fff;">
-河口付近では水の流れに注意をしたい。ここではよくウエーディングを楽しんでいる釣り人を見かけるが、川の流れが速い場所に入ると危険性が増します。最悪なことに泥にはまったり、エイに刺されたりすることもあります。サーフ同様にウエーディングをする時は膝くらいまでの浅い場所で竿を構えましょう。	<br><br>
-
-また干潮時は通れても、満潮時には通れなくなる河口もあります。その時の潮位をしっかり確認して、帰路の確保を考えて釣りをしましょう。（集中するあまり気がついたらだいぶ元の位置から離れすぎていたなんてこともありますので）	<br><br>
-
-近年は異常気象で〇〇年に一度あるかないかのゲリラ豪雨などの影響もあって、想定外の状況になることも珍しくありません。空の様子やスマホでの天候のチェックをまめに行いましょう。	
-<br><br>
-</p>
-<br><br>
-
-<h4 class="p-contents03__hdr">◇地磯	</h4>
-<p class="p-contents03__txt" style="color: #fff;">
-基本的に船でしか渡れない磯を沖磯と呼ぶのに対して、歩いて行ける磯場のことを地磯と呼びます。堤防の横にある地磯から、1時間以上険しい道を歩いて行く地磯まで色々とあります。	<br><br>
-
-1時間以上かけて急斜面を駆け上り、ロープやはしごなどを使って普段では決して行けない様な磯は、まず初心者や中級者は辞めておきましょう。こういった場所は魚影は濃く大物も狙えますが、水深がある上に潮の流れも速く、ラインや根掛かりのトラブルが急激に増えます。つまりタックルに対する注意力が人一倍になる為、釣りどころではくなります。	<br><br>
-
-装備で大事な物は、『ライフジャケット』・『磯靴』『グローブ（5本指タイプか3本指カットタイプがいい）』です。これらの三種の神器は必ず忘れないように装着して下さい。	
-<br><br>
-
-<b>【ナイトゲームにおける注意点】</b><br><br>
-
-<div class="text-center" ><img class="w-50"  src="image32.jpg" />	</div><br> 
-
-もともと昔は暗くないと魚は釣れないと言われていたらしいが、今ではデイゲームがすっかり定着している。しかし一般的にナイトゲームの方が大型のサイズが狙えやすいのです。<br><br>
-
-反面、注意しないといけないことはデイゲームよりもたくさんあります。大幅に視界が狭くなることによるトラブル（常夜灯のない足場やライントラブル等）・事故（海への転落など）の発生率が高くなりますので、極力単独より複数人での釣行がまず望ましいです。<br><br>
-
-まずはナイトゲームに出掛ける時に、必ずライトを身に付けて行きましょう。頭に付ける明るいLEDタイプのライトから首に掛けるタイプまで、お店やインターネットで多くの種類の中から選べますので購入することをオススメします。まだナイトゲームをした事がない人でも来るべき日に備え、事前に購入しておきましょう。<br><br>
-<b>【毒魚に対する心構え】</b><br><br>
-
-水辺の注意点として、先ほどにも述べましたが毒を持つ魚に遭遇することは避けられません。しかし正しい知識をもって対処すれば、必要以上に恐れることはありません。<br><br>
-
-まず第一に毒を持つ魚であるという事を認識することが最重要で、素手で魚を掴まないで、プライヤーなどでしっかり針を外してあげましょう。誤って毒針に刺さる時の最も多いケースは釣った毒魚を針から外す時です。<br><br>
-
-お守りとしてポイズンリムーバーを準備しておけば安心です。これは吸引タイプの応急用毒吸取り器になります。使い方は簡単で、強力に毒を吸引し傷口から抽出するよう設計されているので、指で絞り出したり口で吸い出すよりは毒を排除しやすいと思います。値段も凄く高くはないので、準備しておくのがいいでしょう。<br><br>
-<b>【まとめ】</b><br><br>
-
-<div class="text-center" ><img class="w-50"  src="image33.jpg" />	</div><br> 
-
-私達は基礎知識をしっかり身に付け、ルールとマナーをきちんと守ることが大切です。”ゴミを捨てない"、”立ち入り禁止場所には入らない”、”車の無断駐車・違法駐車をしない”、”騒音をたてない”といった地域住民やその場所で漁師として仕事をしている方々に絶対迷惑を掛けないようにしましょう。<br><br>
-
-最低限度のマナーを守れる釣り人は本当に素敵ですし、釣り人同士お互いが不愉快な思いをしないように釣りを楽しむことが一番大事なことですよね。<br><br></p>
-
-        </div>
+       </div>
+        <div class="col-6 section4">
+          <div class="text-center" ><img class="w-50"  src="image32.jpg" style="box-shadow:  33px 33px 0px -1px #FCF787;"/>	</div><br> 
       
-        </section>	
+        </div>
+      </div>
+      </div>
+
+</section>
+
+<section class="p-contents04 mb-5">
+        
+  <div class="c-section">			
+    <div class="row">
+      <h4 class="p-contents01__hdr">Preparation for Poisoned Fish</h4>
+      <p class="p-contents01__txt" >As a precaution on the waterside, as I mentioned earlier, it is unavoidable to encounter poisonous fish. However, if you deal with it with the right knowledge, you will not be afraid more than necessary. First of all, it is most important to recognize that it is a poisonous fish. Instead of grasping the fish with bare hands, remove the needle firmly with pliers. The most common case of accidentally sticking a poisonous needle is when you remove the poisoned fish you caught from the needle. It's a good idea to have a poison remover as a talisman. This is a suction type first aid poison remover. It is easy to use and designed to strongly inhale and extract poison from wounds, so I think it is easier to eliminate the poison than squeezing it with your finger or sucking it out with your mouth. The price is not very high, so it's a good idea to have it ready.</p>
+      </div>
+    </div>
+</section>
+
+<section class="p-contents04 mb-5">
+        
+  <div class="c-section ">			
+    <div class="row">
+      <div class="col-4 slideImg2">
+        <img class=""  src="image33.jpg" style="position: relative;"/>	 
+      </div>
+      <div class="col-8" style="background-color: #FCF787;padding:15px;padding-top: 50px;">
+        <h4 class="p-contents01__hdr">Summary</h4>
+        <p class="p-contents01__txt" >It is important for us to have basic knowledge and to follow the rules and manners properly. I'm working as a fisherman in the area and locals, such as "I don't throw away trash", "I can't enter the off-limits area", "I don't park cars illegally" and "I don't make noise". Be sure not to bother everyone. Anglers who can keep the minimum manners are really nice, and the most important thing is to enjoy fishing so that they don't bother each other.</p>
+       
+      </div>
+   </div>
+    </div>
+</section>
+
         </main>
 
 
@@ -1372,6 +1553,116 @@ img{    max-width: 100%;
 	</div>
 </footer>
 
+<a id="scroll-to-top" class="point_color_A" href="#" title="Scroll to Top" style="display: none;"></a>
+
+
+
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/loopslider2.js"></script>
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/slick.js"></script>
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/jquery.mCustomScrollbar.min.js"></script>
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/ofi.min.js"></script>
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/css_browser_selector.js"></script>
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/jet_script.js"></script>
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/modal.js"></script>
+
+<!-- 遅延読み込み -->
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/lozad.min.js"></script>
+<script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+
+<script type="text/javascript" src="https://jetb.co.jp/ec-king/common/js/woo.js"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/themes/jet-cms14-c/custom/custom.js"></script>
+
+        <script type="text/javascript">
+			var wcct_info = [];        </script>
+		<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://wild-scene.com/jetb/wp-admin/admin-ajax.php";
+</script>
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel="stylesheet" id="metaslider-flex-slider-css" href="https://wild-scene.com/jetb/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.16.4" type="text/css" media="all" property="stylesheet">
+<link rel="stylesheet" id="metaslider-public-css" href="https://wild-scene.com/jetb/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.16.4" type="text/css" media="all" property="stylesheet">
+<script type="text/javascript" src="https://yubinbango.github.io/yubinbango/yubinbango.js"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/jetb\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","enable_ajax_loading":"","ajax_loader_url":"https:\/\/wild-scene.com\/jetb\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader-alt.svg","remove_from_wishlist_after_add_to_cart":"1","is_wishlist_responsive":"1","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies on your browser are enabled.","added_to_cart_message":"<div class=\"woocommerce-notices-wrapper\"><div class=\"woocommerce-message\" role=\"alert\">Product added to cart successfully<\/div><\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem","load_mobile_action":"load_mobile","delete_item_action":"delete_item","save_title_action":"save_title","save_privacy_action":"save_privacy","load_fragments":"load_fragments"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js?ver=3.0.11"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/wild-scene.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/jetb\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u30ab\u30fc\u30c8\u3092\u8868\u793a","cart_url":"https:\/\/wild-scene.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/jetb\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/jetb\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_3146701af297a97627fd339b39123bb6","fragment_name":"wc_fragments_3146701af297a97627fd339b39123bb6","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wcct_data = {"wcct_version":"2.12.0","currency":"\u5186","admin_ajax":"https:\/\/wild-scene.com\/jetb\/wp-admin\/admin-ajax.php","home_url":"https:\/\/wild-scene.com","log_file":"https:\/\/wild-scene.com\/jetb\/wp-content\/uploads\/finale-woocommerce-sales-countdown-timer-discount\/force.txt","refresh_timings":"yes","reload_page_on_timer_ends":"yes","l":"NA"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/finale-woocommerce-sales-countdown-timer-discount/assets/js/wcct_combined.min.js?ver=2.12.0"></script>
+<script type="text/javascript" src="//wild-scene.com/jetb/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-includes/js/wp-embed.min.js?ver=5.4.2"></script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.16.4"></script>
+<script type="text/javascript">
+var metaslider_22 = function($) {$('#metaslider_22').addClass('flexslider');
+            $('#metaslider_22').flexslider({ 
+                slideshowSpeed:8000,
+                animation:"fade",
+                controlNav:false,
+                directionNav:false,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:2000,
+                prevText:"Previous",
+                nextText:"Next",
+                fadeFirstSlide:true,
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_22');
+        };
+        var timer_metaslider_22 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_22, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_22, 1) : metaslider_22(window.jQuery);
+        };
+        timer_metaslider_22();
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/wild-scene.com\/jetb\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/wild-scene.com\/jetb\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/instagram-feed/js/sb-instagram-2-2.min.js?ver=2.4.4"></script>
+
 </div><!--END allwrapper-->
-</body>
-</html>
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","883659738714001");fbq("set","agent","tmgoogletagmanager","883659738714001");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=883659738714001&amp;ev=PageView&amp;noscript=1"></noscript><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div>
+<div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
