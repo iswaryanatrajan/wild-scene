@@ -38,317 +38,320 @@
 			/*! This file is auto-generated */
 			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="https://wild-scene.com/jetb/wp-includes/js/wp-emoji-release.min.js?ver=5.4.2" type="text/javascript" defer=""></script>
+<script>
+
+</script>
 <style type="text/css">
 
 
-html{
-      font-family: Verdana, "YuGothic", "Yu Gothic", "游ゴシック", "游ゴシック体", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
-    }
-    .index_area{
-        margin-top:50px
-    }
-    .w-100{
-      width: 100%;
-    }
-    .p-intro {
-      height: 719px;
-      background: url(banner2.jpg) center center no-repeat;
-      background-size: cover;
-      position: relative;
-    top: -10px;
-    margin-top: 0;
-    padding-top: 0;
-    }
-    .c-section {
-        max-width: 80%;
-    margin: 0 auto;
-    text-align: left;
-    padding: 30px 10px;	
-    }
-    .p-intro__block {
-      position: relative;
-      margin-top: 49px;
-    }
-    .p-intro__blockItem {
-      position: absolute;
-      width: 215px;
-    }
-    .p-contents01__txt{
-      color:#788170;
-      font-size: 15px;
-      line-height: 34px;
-    }
-    .p-contents01__title{
-      font-size: 1.7rem;
-    font-weight: bold;
-    border-bottom:3px groove #6fc0cc;
-    color:#000;
-    width:fit-content;
-    }
-/*
-    @media only screen and (max-width: 575px)  {
-    
-      .p-intro {
-        height: 187px;
-      }
-    }
-    @media (min-width: 576px) {
-      .p-intro {
-        height: 384px;
-      }
-    }
-    @media (min-width: 992px) {
-      .p-intro {
-        height: 510px;
-      }
-    }
-    @media (min-width: 1200px) {
-      .p-intro {
-        height: 719px;
-      }
-    }
-    @media screen and (min-width: 1400px) {
+    html{
+          font-family: Verdana, "YuGothic", "Yu Gothic", "游ゴシック", "游ゴシック体", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+        }
+        .index_area{
+            margin-top:50px
+        }
+        .w-100{
+          width: 100%;
+        }
         .p-intro {
-        height: 850px;
-      }  
+          height: 719px;
+          background: url(banner2.jpg) center center no-repeat;
+          background-size: cover;
+          position: relative;
+        top: -10px;
+        margin-top: 0;
+        padding-top: 0;
+        }
+        .c-section {
+            max-width: 80%;
+        margin: 0 auto;
+        text-align: left;
+        padding: 30px 10px;	
+        }
+        .p-intro__block {
+          position: relative;
+          margin-top: 49px;
+        }
+        .p-intro__blockItem {
+          position: absolute;
+          width: 215px;
+        }
+        .p-contents01__txt{
+          color:#788170;
+          font-size: 15px;
+          line-height: 34px;
+        }
+        .p-contents01__title{
+          font-size: 1.7rem;
+        font-weight: bold;
+        border-bottom:3px groove #6fc0cc;
+        color:#000;
+        width:fit-content;
+        }
+    /*
+        @media only screen and (max-width: 575px)  {
+        
+          .p-intro {
+            height: 187px;
+          }
+        }
+        @media (min-width: 576px) {
+          .p-intro {
+            height: 384px;
+          }
+        }
+        @media (min-width: 992px) {
+          .p-intro {
+            height: 510px;
+          }
+        }
+        @media (min-width: 1200px) {
+          .p-intro {
+            height: 719px;
+          }
+        }
+        @media screen and (min-width: 1400px) {
+            .p-intro {
+            height: 850px;
+          }  
+        }
+    */
+        .p-contents02 {
+          background-color:#e3db5d;
+          clear:both
+        }
+        .p-contents02 .c-section {
+        
+        }
+        .p-contents02__txt {
+          margin: 35px 0 0 10px;
+          color: #9b9103;
+          font-size: 15px;
+          line-height: 34px;
+          font-family: Verdana, "YuGothic", "Yu Gothic", "游ゴシック", "游ゴシック体", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+        }
+        h1{
+          color: #9b9103;
+          font-family: Verdana, "YuGothic", "Yu Gothic", "游ゴシック", "游ゴシック体", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+        }
+        .p-contents01__blockTxt {
+          width: 70%;
+          margin: 55px auto 0 auto;
+          color: #818181;
+          font-size: 1.5rem;
+          line-height: 32px;
+        }
+        .p-contents03{
+          background:url("greyBg.png");
+          clear:both
+        }
+        .p-contents03__txt {
+          margin: 35px 0 0 10px;
+          color: #2c7490;
+          font-size: 15px;
+          line-height: 34px;
+          font-family: Verdana, "YuGothic", "Yu Gothic", "游ゴシック", "游ゴシック体", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+        }
+        .p-contents03__title{
+          color:#2c7490;
+          font-size:1.7rem;
+          font-weight:bold
+        }
+        .about__title{
+          font-size:5rem;
+          font-weight:bold;
+          text-align: center;
+          color:#000 !important
+        }
+        .about{
+            margin-top:20px
+        }
+        .section-img{
+          align-content: center;
+            flex-direction: row;
+            display: flex;
+            justify-content: center;
+        }
+        .p-contents04__title{
+          text-align: center;
+            margin: 20px 0;
+            color:#2c7490;
+            font-size:1.7rem;
+          font-weight:bold
+        }
+        .p-contents01__block {
+        margin-top: 61px;
     }
-*/
-    .p-contents02 {
-      background-color:#e3db5d;
-      clear:both
-    }
-    .p-contents02 .c-section {
-    
-    }
-    .p-contents02__txt {
-      margin: 35px 0 0 10px;
-      color: #9b9103;
-      font-size: 15px;
-      line-height: 34px;
-      font-family: Verdana, "YuGothic", "Yu Gothic", "游ゴシック", "游ゴシック体", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
-    }
-    h1{
-      color: #9b9103;
-      font-family: Verdana, "YuGothic", "Yu Gothic", "游ゴシック", "游ゴシック体", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+    .p-contents01__blockItem {
+      position: relative;
+        float: left;
+        margin-left: 5px;
+        width: 323px;
+        height: 347px;
+    background: url(contents01_img04.png) center center no-repeat;
+    list-style-type: none;
     }
     .p-contents01__blockTxt {
-      width: 70%;
-      margin: 55px auto 0 auto;
+      width: 275px;
+        margin: 55px auto 0 auto;
+        color: #818181;
+        font-size: 15px;
+        line-height: 32px;
+    
+    }
+    .p-contents04__blockTxt{
       color: #818181;
-      font-size: 1.5rem;
-      line-height: 32px;
+        font-size: 15px;
+        line-height: 32px;
     }
-    .p-contents03{
-      background:url("greyBg.png");
-      clear:both
+    .redText{
+      color:red
     }
-    .p-contents03__txt {
-      margin: 35px 0 0 10px;
-      color: #2c7490;
-      font-size: 15px;
-      line-height: 34px;
-      font-family: Verdana, "YuGothic", "Yu Gothic", "游ゴシック", "游ゴシック体", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+    img{    max-width: 100%;
+        height: auto;
+        width:auto}
+    
+        .p-contents01__blockItem h3{
+          font-size: 14px;
+        position: relative;
+        top: 12px;
+        /* left: 10px; */
+        width: 60%;
+        padding: 10px;
+        margin: auto;
+        /* background: beige; */
+        background-color: #6fc0cc;
+        } 
+        .p-contents03__hdr{color:#fff;font-size: 1.1rem;
+        font-weight: bold;}  
+        .imgcenter{
+          justify-content: center;
+        display: flex;
+        flex-direction: column;
+        }
+        .w-50{
+          width: 50%;
+        }   
+        .pageHdr{
+          background:url(header1.png);
+          background-size: cover;
+        background-attachment: fixed!important;
+        height: 50vh;
+        width:100%
+        }
+
+        #scroll-down{
+            position: absolute;
+        bottom: 80px;
+        width: 100%;
+        font-size: 12px;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        letter-spacing: 2.5px;
+        }
+    .about img{box-shadow: 20px 20px 0px -1px #F8DDA8;
+      height: 350px;
+        width: 270px;
     }
-    .p-contents03__title{
-      color:#2c7490;
-      font-size:1.7rem;
-      font-weight:bold
+    .about .col-4 div:first-child{text-align:center}
+    .leftBg{background: #F0E569;font-size: 120px;}
+    .rightBg{background: #86CAD0;font-size: 120px;}
+    .p-contents03 .row img{    right: 50px;
+        position: relative;
+        bottom: 50px;}
+    
+    .section4 img{box-shadow: 10px 10px 0px -1px #86CAD0;
+        width: 80% !important;
     }
-    .about__title{
-      font-size:5rem;
-      font-weight:bold;
-      text-align: center;
+    .section4 .col-6{display: flex;flex-direction: column;justify-content: center;}
+    .p-contents05__title{font-size:2.5rem;font-weight:bold}
+    .content5Title{
+      font-weight: bold;
+        border-left: 7px solid #86CAD0;
+        padding-left: 5px;
+        padding: 10px;
+        font-size: 1.2rem;}
+    .carousel-item{
+      width:80% !important;
+      margin-left:10%;
+      margin-right:10%;
+      height:450px;
+      margin-top: 60px;
+    }
+    .carousel-control-next, .carousel-control-prev{
       color:#000 !important
     }
-    .about{
-        margin-top:20px
+    .carousel-item h5{
+      font-size:1.5rem;
+      font-weight:bold;
+      color:#606060;
+    
+      
     }
-    .section-img{
-      align-content: center;
-        flex-direction: row;
-        display: flex;
-        justify-content: center;
+    .carousel-control-prev-icon {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5L4.25 4l2.5-2.5L5.25 0z'/%3e%3c/svg%3e")!important ;
     }
-    .p-contents04__title{
-      text-align: center;
-        margin: 20px 0;
-        color:#2c7490;
-        font-size:1.7rem;
-      font-weight:bold
+    .carousel-control-next-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/%3e%3c/svg%3e")!important ;
     }
-    .p-contents01__block {
-    margin-top: 61px;
-}
-.p-contents01__blockItem {
-  position: relative;
-    float: left;
-    margin-left: 5px;
-    width: 323px;
-    height: 347px;
-background: url(contents01_img04.png) center center no-repeat;
-list-style-type: none;
-}
-.p-contents01__blockTxt {
-  width: 275px;
-    margin: 55px auto 0 auto;
-    color: #818181;
-    font-size: 15px;
-    line-height: 32px;
-
-}
-.p-contents04__blockTxt{
-  color: #818181;
-    font-size: 15px;
-    line-height: 32px;
-}
-.redText{
-  color:red
-}
-img{    max-width: 100%;
-    height: auto;
-    width:auto}
-
-    .p-contents01__blockItem h3{
-      font-size: 14px;
-    position: relative;
-    top: 12px;
-    /* left: 10px; */
-    width: 60%;
-    padding: 10px;
-    margin: auto;
-    /* background: beige; */
-    background-color: #6fc0cc;
-    } 
-    .p-contents03__hdr{color:#fff;font-size: 1.1rem;
-    font-weight: bold;}  
-    .imgcenter{
-      justify-content: center;
-    display: flex;
-    flex-direction: column;
-    }
-    .w-50{
-      width: 50%;
-    }   
-    .pageHdr{
-      background:url(header1.png);
-      background-size: cover;
-    background-attachment: fixed!important;
-    height: 50vh;
-    width:100%
-    }
-
-    #scroll-down{
+    .carousel-indicators li{background-color:#000 !important}
+    .slidenum {
         position: absolute;
-    bottom: 80px;
-    width: 100%;
-    font-size: 12px;
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    align-items: center;
-    letter-spacing: 2.5px;
+        font-size: 200px;
+        width: 100%;
+        text-align: end;
+        top: -150px;
+        color: #606060;
+        opacity: 0.08;
     }
-.about img{box-shadow: 20px 20px 0px -1px #F8DDA8;
-  height: 350px;
-    width: 270px;
-}
-.about .col-4 div:first-child{text-align:center}
-.leftBg{background: #F0E569;font-size: 120px;}
-.rightBg{background: #86CAD0;font-size: 120px;}
-.p-contents03 .row img{    right: 50px;
-    position: relative;
-    bottom: 50px;}
-
-.section4 img{box-shadow: 10px 10px 0px -1px #86CAD0;
-    width: 80% !important;
-}
-.section4 .col-6{display: flex;flex-direction: column;justify-content: center;}
-.p-contents05__title{font-size:2.5rem;font-weight:bold}
-.content5Title{
-  font-weight: bold;
-    border-left: 7px solid #86CAD0;
-    padding-left: 5px;
-    padding: 10px;
-    font-size: 1.2rem;}
-.carousel-item{
-  width:80% !important;
-  margin-left:10%;
-  margin-right:10%;
-  height:450px;
-  margin-top: 60px;
-}
-.carousel-control-next, .carousel-control-prev{
-  color:#000 !important
-}
-.carousel-item h5{
-  font-size:1.5rem;
-  font-weight:bold;
-  color:#606060;
-
+    
+    .slideImg{
+      background: linear-gradient(90deg, #FFF 70%, #F3F3F3 30%);
+      padding:80px 0
+    }
+    .slideImg2{
+      background: linear-gradient(90deg, #FFF 70%, #fff9ae 30%);
+      padding:80px 0
+    }
+    .cardTitle{
+      font-size:1.2rem
+    }
+    .basicImg{position: relative;
+        top: -40px;}
+    .card{    height: 300px;    box-shadow: 0px 0px 24px #0000001A;border:1px solid #fff !important}
+    .list-group-item{    padding: 1.25rem !important;background-color: #dee2e6 !important;}
+    .list-group-item+.list-group-item {
+        border-top-width: 1px;
+    }
+    .list-group-item.active{background-color: white!important;
+      color:#000!important;
+        border-color: #fff!important;
+        border-left: 5px solid #86cad0 !important;}
+    .tabs{
+      background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 20px #00000014;
+        /* margin: 5px; */
+        padding: 20px;
+    }
+    .pageHdr h1{
+      font-size:50px;
+      color:#fff;
+      padding-top: 10vh;
+      letter-spacing: 10;
+    }
+    .pageHdr .col-6 img{
+      width:50%;
+    }
+    .content2 h1{font-size: 6rem;}
+    .table thead tr th, .table tbody tr td {
+        border: none;
+    }
   
-}
-.carousel-control-prev-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5L4.25 4l2.5-2.5L5.25 0z'/%3e%3c/svg%3e")!important ;
-}
-.carousel-control-next-icon {
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/%3e%3c/svg%3e")!important ;
-}
-.carousel-indicators li{background-color:#000 !important}
-.slidenum {
-    position: absolute;
-    font-size: 200px;
-    width: 100%;
-    text-align: end;
-    top: -150px;
-    color: #606060;
-    opacity: 0.08;
-}
-
-.slideImg{
-  background: linear-gradient(90deg, #FFF 70%, #F3F3F3 30%);
-  padding:80px 0
-}
-.slideImg2{
-  background: linear-gradient(90deg, #FFF 70%, #fff9ae 30%);
-  padding:80px 0
-}
-.cardTitle{
-  font-size:1.2rem
-}
-.basicImg{position: relative;
-    top: -40px;}
-.card{    height: 250px;    box-shadow: 0px 0px 24px #0000001A;border:1px solid #fff !important}
-.list-group-item{    padding: 1.25rem !important;background-color: #dee2e6 !important;}
-.list-group-item+.list-group-item {
-    border-top-width: 1px;
-}
-.list-group-item.active{background-color: white!important;
-  color:#000!important;
-    border-color: #fff!important;
-    border-left: 5px solid #86cad0 !important;}
-.tabs{
-  background: #FFFFFF 0% 0% no-repeat padding-box;
-    box-shadow: 0px 3px 20px #00000014;
-    /* margin: 5px; */
-    padding: 20px;
-}
-.pageHdr h1{
-  font-size:50px;
-  color:#fff;
-  padding-top: 10vh;
-  letter-spacing: 10;
-}
-.pageHdr .col-6 img{
-  width:50%;
-}
-.content2 h1{font-size: 6rem;}
-.table thead tr th, .table tbody tr td {
-    border: none;
-}
-
-.sample-section-wrap {
-position: relative;
-background-color: white;
+    .sample-section-wrap {
+  position: relative;
+  background-color: white;
 }
 .header-section {
 position: fixed;
@@ -357,17 +360,20 @@ padding-top: 150px;
 }  
 .content2 img{width:75%}
 .social-media{
-position:fixed;
-right:40px;
-top:200px
+  position:fixed;
+  right:40px;
+  top:200px
 }
 .social-media img{display:block;margin:30px}
 .banner{font-size:20px}
 .list-group-item{    border-bottom: none;
-border-right: none!important;
-border-left: none!important;
-border-top: 1px solid #CCC!important;}
+    border-right: none!important;
+    border-left: none!important;
+    border-top: 1px solid #CCC!important;}
+
+
 </style>
+	
 	
 	<link rel="stylesheet" id="validate-engine-css-css" href="https://wild-scene.com/jetb/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.13" type="text/css" media="all">
 <link rel="stylesheet" id="colorbox-theme1-css" href="https://wild-scene.com/jetb/wp-content/plugins/jquery-colorbox/themes/theme1/colorbox.css?ver=4.6.2" type="text/css" media="screen">
@@ -551,7 +557,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</form>
 			</div>
 		</header>
-  
     <main class="index_area">
             <!--▼▼▼▼メインコンテンツエリアここから▼▼▼▼-->
            
@@ -562,10 +567,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h1 class="text-center  pb-4 pt-5" >LIFE JACKET</h1>
               <p class="text-center" style="color:#fff">あなたの命を守ります。 大切なあなた、大切な家族とずっと一緒にいたいから</p> </div>
               <div class="social-media">
-                <img  src="pinterest.svg"/>
-                <img  src="facebook.svg"/>
-                <img  src="instagram.svg"/>
+                <a href="https://twitter.com/SceneWild"><img  src="twitter-24.png"/></a>
+                <a href="https://www.facebook.com/Wild-Scene-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B7%E3%83%BC%E3%83%B3-475333406251743"><img  src="facebook.svg"/></a>
+                <a href="https://www.instagram.com/wildscene2017/"><img  src="instagram.svg"/></a>
                </div>
+
               <div class="row pt-5" style="    position: relative;
               top: 250px;
               overflow: visible;
@@ -892,41 +898,43 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </div>
                         
             <br>
-            <div class="row section4 mb-5">
+            <div class="row section4 mb-5 readmore">
               <div class="col-7">
                 <p class="content5Title">妥協を許さない気室の開発</p>
-                <p class="p-contents04__blockTxt">
+                <p class="p-contents04__blockTxt ">
                   そもそも気室とは、空気によって膨らみ浮力体となる部分で、この部分に穴が開くとライフジャケットとしての存在意義を失いかねません。では、使用上問題がない気室の定義について確認してみましょう。<br>	
                   日本の国交省は塩化ビニルで作成された気室について、使用上問題がないと判断できる条件を下記の通り定めています。<br>	
                   ・膨張後24時間経過時に浮力を7.5kg以上に保てる<br>	
                   ・二酸化炭素の減少度を－5%以下に抑えられる<br>	
                   しかし、ワイルドシーンのライフジャケットは安全性の追求にこだわり、これらの条件よりも厳しい国際基準IMOに準拠した規格で気室を開発しました。<br>	<br>	
-                  【約3日間の持続力】<br>
+                 <span class="moreText">【約3日間の持続力】<br>
                   結果、気室における二酸化炭素減少率の比較実験で、膨張後72時間経過しても減少率を約0%に近づけることに成功。<br>	
                   つまり、日本国内の基準を満たしただけの製品よりも水中で浮かんでいられる日数も長く、救助までの時間を延ばせるといえます。<br>	<br>	
                   【法定基準を上回る浮力】<br>
                   また、ワイルドシーンのライフジャケットはボンベの内容量をできる限り増加しているのも特徴です。そのため、浮力は法定基準の7.5kgを上回る16.2kgになっています。浮力とは文字通り水中から受ける浮き上がる力のことです。<br>	
                   水中では体重が1/10になることをふまえると、ワイルドシーンのライフジャケットを装着すれば体重162kgだとしても浮かせられます。<br>	
                   仮に子供を助けるために水中に飛び込んだとしても、ワイルドシーンのライフジャケットならば二人分を浮かせるには十分といえるでしょう。法定基準を上回る浮力の高さは、水辺のアクシデントで有効に働くと期待できます。<br>	
-                  
+                </span> 
                 </p>
+                <p class="text-right more">Read More</p>
               </div>
               <div class="col-5 text-center">
                 <img class="w-100 m-5" src="image03.jpg"  alt="">
             </div>
           </div>
-          <div class="row section4 mb-5">
+          <div class="row section4 mb-5 readmore">
             <div class="col-5 text-center">
               <img class="w-100 m-5" src="image04.jpg"  alt="" style="box-shadow:10px 10px 0px -1px  #F8DDA8;">
           </div>
             <div class="col-7">
               <p class="content5Title" style="border-left:0">専用生産ラインにおける入念なチェック体制</p>
-              <p class="p-contents04__blockTxt">
+              <p class="p-contents04__blockTxt ">
                 ワイルドシーンのライフジャケットは、正規契約にもとづく自社工場の専用生産ラインによって製造されています。専属職員が生産ラインを確認し、品質の改善指導を行いつつ協議を進めています。<br>	
                       前述した気室については、特に入念なチェックを行っています。<br>	
-                      具体的には、膨張時における気室圧力、エア漏れの有無、膨張後から24時間後の減衰状態などを検査しています。水没テストに関しては、最低3回チェックするほどの徹底ぶりです。<br>	
-                      さらに、気室を外装に装着した後も改めて膨張テストを実施。最後まで実施される妥協のない検査こそ、ワイルドシーンのライフジャケットに安全性をもたらしています。  
+                      <span class="moreText">        具体的には、膨張時における気室圧力、エア漏れの有無、膨張後から24時間後の減衰状態などを検査しています。水没テストに関しては、最低3回チェックするほどの徹底ぶりです。<br>	
+                      さらに、気室を外装に装着した後も改めて膨張テストを実施。最後まで実施される妥協のない検査こそ、ワイルドシーンのライフジャケットに安全性をもたらしています。  </span>
               </p>
+              <p class="text-right more">Read More</p>
             </div>
           
         </div>
@@ -936,61 +944,64 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     
     
-        <div class="row section4 mb-5">
+        <div class="row section4 mb-5 readmore">
           <div class="col-7">
             <p class="content5Title" style="border-left:0">2WAYタイプの自動膨張式</p>
-            <p class="p-contents04__blockTxt">
+            <p class="p-contents04__blockTxt ">
               前述した通り、一般的なライフジャケットは手動膨張式と自動膨張式の2種類に分けられます。手動膨張式は水に濡れやすい状態で活動することを前提としています。<br>	
             
               ただし、水辺のアウトドアでは、予期せぬ場面で落水してしまう恐れがあります。慌てている状態に手動でライフジャケットを起動させるのは困難といえるでしょう。<br>	
               
               その点、ワイルドシーンのライフジャケットは自動膨張式。落水時に自動で起動するので、突然のアクシデントにも対応しやすいです。特に、防波堤や船などで釣りを行う際に重要な役目を果たしてくれます。<br>	
-              
+              <span class="moreText">   
               さらに、万が一落水時に起動しなかった場合に備えて、レバーを引いて手動で作動させられるようにもなっています。<br>	
               
-              2WAYタイプの仕組みによって想定外を排除し、安全性を可能な限り高めているのです。   
+              2WAYタイプの仕組みによって想定外を排除し、安全性を可能な限り高めているのです。  </span> 
             </p>
+            <p class="text-right more">Read More</p>
           </div>
           <div class="col-5 text-center">
             <img class="w-100 m-5" src="image05.jpg"  alt="">
         </div>
       </div>
-      <div class="row section4 mb-5">
+      <div class="row section4 mb-5 readmore">
         <div class="col-5 text-center">
           <img class="w-100 m-5" src="image06.jpg"  alt="" style="box-shadow:10px 10px 0px -1px  #F8DDA8;">
       </div>
         <div class="col-7">
           <p class="content5Title" style="border-left:0">防水&UVカット性能で生地が劣化しにくい</p>
-          <p class="p-contents04__blockTxt">
+          <p class="p-contents04__blockTxt ">
             装着者の命を守るライフジャケットには頑丈さも求められます。その点、ワイルドシーンのライフジャケットの生地には密度840デニールの高強度糸を幾重にも織り込んだ特殊ナイロンが用いられています。アウトドアの際にも破損を気にせず活動できるでしょう。<br>	
             
             ただし、出荷当時のライフジャケットに問題がなくても、使用しているうちに劣化してしまっては、いざというときにトラブルになりかねません。また、ライフジャケットは水の浸透によって誤作動を起こしてしまうケースもあります。<br>	
-            
+            <span class="moreText">    
             ワイルドシーンのライフジャケットには強力な撥水力を備えた生地を採用。加えて防水性能を付与しているため、劣化や誤作動のリスクを最小限に抑えることが可能です。<br>	
             
             また、海水や淡水の浸食にも耐性が強く、気室の劣化も防ぎやすくなっているのもポイント。撥水性が落ちても、市販の撥水材で効果をもとの状態に近づけることもできます。<br>	
             
             さらに見過ごせない点が、特殊加工によってUVカット性能まで強化されているところです。直射日光による生地の劣化も防いでくれます。炎天下のアウトドアが多い方でも、安心して活用できるでしょう。<br>	
-            このように、ワイルドシーンのライフジャケットは、水と光の影響まで考慮することで劣化を可能な限り防ぎ、安全性を追求しています。 
+            このように、ワイルドシーンのライフジャケットは、水と光の影響まで考慮することで劣化を可能な限り防ぎ、安全性を追求しています。</span> 
           </p>
+          <p class="text-right more">Read More</p>
         </div>
       
     </div>
     
-    <div class="row section4 mb-5">
+    <div class="row section4 mb-5 readmore">
       <div class="col-7">
         <p class="content5Title" style="border-left:0">世界的メーカーによる各種装置を採用</p>
-        <p class="p-contents04__blockTxt">
+        <p class="p-contents04__blockTxt ">
           ワイルドシーンのライフジャケットを構成する膨張装置は特殊生産をしています。現在、膨張装置で有名なグローバル企業として、国際基準ISO認証企業でDAIWAやYAMAHAなどの主要ライフジャケットメーカーも同社の製品を取り入れています。<br>	
             
           また、ワイルドシーンのライフジャケットでは、膨張装置だけでなくスプールも特殊な部品を採用しています。スプールは、水分を感知して気室を膨張させる中継機能を担うため、膨張装置と密接な関係があります。<br>	
-          
+          <span class="moreText">    
           その点もふまえて、ワイルドシーンのライフジャケットでは、膨張装置とスプールを同じブランドでそろえたというわけです。<br>	
           
           さらに安全性を高めるために、吸気チューブにも同社の高品質な商品を用いています。気室に空気を送入して膨らませるコンポーネントです。逆止弁が備わっており、空気の逆流や漏れを防止し、膨張を効率的に促進します。<br>	
           
-          この各種装置がワイルドシーンの安全性の基盤となっています。
+          この各種装置がワイルドシーンの安全性の基盤となっています。</span>
         </p>
+        <p class="text-right more">Read More</p>
       </div>
       <div class="col-5 text-center">
         <img class="w-100 m-5" src="image07.jpg"  alt="">
@@ -999,18 +1010,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       
      
     
-    <div class="row section4 mb-5">
+    <div class="row section4 mb-5 readmore">
       <div class="col-5 text-center">
         <img class="w-100 m-5" src="image08.jpg"  alt="" style="box-shadow:10px 10px 0px -1px  #F8DDA8;">
     </div>
       <div class="col-7">
         <p class="content5Title" style="border-left:0">調節具には耐久性の高いポリアセタールを使用</p>
-        <p class="p-contents04__blockTxt">
+        <p class="p-contents04__blockTxt ">
           アジャスターやバックルなどの調節具もライフジャケットの安全性を左右します。その調節具に選んだ素材はポリアセタールです。強度と安全性に優れた5大汎用エンジニアリング・プラスチックの一つとして知られています。<br>	
             
           本来、プラスチックの種類はさまざまで、透明度の高い素材や繊維として使われる素材などがあります。そのプラスチックの中でも強度や耐摩耗性などに優れる素材がエンジニアリング・プラスチックです。<br>	
           
           具体的にポリアセタールは下記の特性を備えています。<br>	
+          <span class="moreText">    
           <br>	
           ・弾性<br>	
           ・耐磨耗性<br>	
@@ -1021,22 +1033,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <br>	
           まず引っ張りや曲げ強さが大きいだけでなく、摩擦係数が少ないのでギアのような部品にも使われることが多い傾向です。また、耐熱・耐寒にも優れるほか、吸湿性も少ないことから、高温多湿の環境でも強度が劣化しにくい特徴もあります。<br>	
           調節具は小さな部分で、ライフジャケットの構成部品の中でも目にとどまりにくい部分かもしれません。ワイルドシーンのライフジャケットは、細部まで妥協なく安全性を追求しているのです。
-        </p>
+      </span>  </p>
+        <p class="text-right more">Read More</p>
       </div>
     
     </div>
     
-    <div class="row section4 mb-5">
+    <div class="row section4 mb-5 readmore">
       <div class="col-7">
         <p class="content5Title" style="border-left:0">欧州規格CE取得製品</p>
-        <p class="p-contents04__blockTxt">
+        <p class="p-contents04__blockTxt ">
           性能が高いといわれるライフジャケットはたくさん出回っていますが、それを示す根拠がなければ信頼できないという方もいることでしょう。<br>	
           CE認証は、EU加盟国の定めた安全基準を満たしていることを示す証明です。CEマークがない製品はヨーロッパに輸出できません。<br>	
+          <span class="moreText">    
           この認証を獲得するためには、認証機関の厳格で公正な審査のもと、適合性評価や品質システムの認定をクリアする必要があります。<br>	
           ただし、CE認証を取得していないにもかかわらず、あたかも審査を通った製品として売り出す販売者も少なくありません。<br>	
           CEマークの真偽を確かめるためには、CEマークライセンス証明書が必要です。この証明書は、製造工場がCEライセンスを取得・所持していることを示す書類です。<br>	
           ワイルドシーンのライフジャケットは、このライセンス証明書にもとづいて販売され、安全性が証明されています
+          </span>
         </p>
+        <p class="text-right more">Read More</p>
       </div>
       <div class="col-5 text-center">
         <img class="w-100 m-5" src="image09.jpg"  alt="">
@@ -1329,37 +1345,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
            
               <div class="c-section">	
                 <p class="content5Title">～安全で充実したFISHING Lifeを応援します～</p>
-              <div class="row section4 mb-5">
+              <div class="row section4 mb-5 readmore">
                 <div class="col-7">
                   <p class="p-contents01__title">水辺の安全に対して</p>
-                  <p class="p-contents01__blockTxt">
+                  <p class="p-contents01__blockTxt ">
                     <p>私達が住む日本は、周りが海で囲まれています。そして四季を通して豊かな自然に恵まれ、各地様々な釣り場がたくさんあります。またその反面、私達は釣りを楽しむことであらゆる危険のリスクがあるということは言うまでもありません。私達は気象に対する適正な判断をしっかり身に付ける必要があるのです。
                       <br>
                       季節の変わり目は特に春一番のような突風が吹いたり、雷や竜巻など起こることが珍しくありません。それから台風や高潮、地震による津波といった自然災害にも直面することがしばしばあります。<br>
+                      <span class="moreText"> 
                       また夏本番前後には、太平洋のはるか南の沖合で発生した台風からのうねりが、突然高い波となって押し寄せる『土用波（どようなみ）』が発生し、海面に近い場所等は、満潮が重なった時は高波の恐れがあるので十分に気をつけないと危険です。<br>
                       海釣りでは、凪の日よりも波気のある日に釣果が期待出来ることもあるために、多少のリスクがあっても釣りをする人は少なくありません。<br>
-                      <u>「まだ直撃してないから大丈夫」ではもうすでに遅いのです。中には命を落とす人もいますので、自分の身は自分で守るように心がけましょう。自ら避けられる危険は多いのです。</u><br>
-                      <br>
+                      <u>「まだ直撃してないから大丈夫」ではもうすでに遅いのです。中には命を落とす人もいますので、自分の身は自分で守るように心がけましょう。自ら避けられる危険は多いのです。</u></span><br>
+                      </span><br>
                   </p>
+                  <p class="text-right more">Read More</p>
+
                 </div>
                 <div class="col-5 text-center">
                   <img class="w-100 m-5" src="image28.jpg" alt="">
               </div>
             </div>
     
-            <div class="row section4 mb-5">
+            <div class="row section4 mb-5 readmore">
               <div class="col-5 text-center">
                 <img class="w-100 m-5" src="image29.jpg" alt="">
             </div>
               <div class="col-7">
                 <p class="p-contents01__title">【気象情報をこまめにチェックする】</p>
-                <p class="p-contents01__blockTxt">
+                <p class="p-contents01__blockTxt ">
                   <p>釣行前には必ずテレビのニュースはもちろんのこと、パソコンやスマートフォンで気象情報を確認しておき、せめて自分が行こうとしているポイント周辺に警報や注意報が出ていないかを見ておきましょう。もし該当すればポイントを変更するか、日を改めて下さい。
                     <br><br>
+                    <span class="moreText"> 
                     また地震などの自然災害では、いつ発生するか予測不能な部分はあります。しかし最近では地震速報など、スマートフォンにいち早くアラーム音で知らせてくれます。発生したら地震の大きさに関係なく、まず津波がくることを前提としてすぐ海から離れましょう。
-                    <br><br> 
+                  </span>  <br><br> 
                     
                 </p>
+                <p class="text-right more">Read More</p>
               </div>
              
           </div>
@@ -1616,21 +1637,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
     
     
-    <section class="p-contents04 mb-5">
+    <section class="p-contents04 mb-5 readmore">
             
       <div class="c-section">			
-        <div class="row">
+        <div class="row ">
     
     
             <div class="col-6">
              
     <h4 class="p-contents01__title" style="border-bottom: 3px solid #FCF787;"> 【ナイトゲームにおける注意点】	</h4> 
-    <p class="p-contents01__txt" > 
+    <p class="p-contents01__txt  " > 
       もともと昔は暗くないと魚は釣れないと言われていたらしいが、今ではデイゲームがすっかり定着している。しかし一般的にナイトゲームの方が大型のサイズが狙えやすいのです。<br><br>
        反面、注意しないといけないことはデイゲームよりもたくさんあります。大幅に視界が狭くなることによるトラブル（常夜灯のない足場やライントラブル等）・事故（海への転落など）の発生率が高くなりますので、極力単独より複数人での釣行がまず望ましいです。 <br><br>
-       まずはナイトゲームに出掛ける時に、必ずライトを身に付けて行きましょう。頭に付ける明るいLEDタイプのライトから首に掛けるタイプまで、お店やインターネットで多くの種類の中から選べますので購入することをオススメします。まだナイトゲームをした事がない人でも来るべき日に備え、事前に購入しておきましょう。
+       <span class="moreText"> 
+       まずはナイトゲームに出掛ける時に、必ずライトを身に付けて行きましょう。頭に付ける明るいLEDタイプのライトから首に掛けるタイプまで、お店やインターネットで多くの種類の中から選べますので購入することをオススメします。まだナイトゲームをした事がない人でも来るべき日に備え、事前に購入しておきましょう。</span>
     </p>
-    
+    <p class="text-right more">Read More</p>
            </div>
             <div class="col-6 section4">
               <div class="text-center" ><img class="w-50"  src="image32.jpg" style="box-shadow:  10px 10px 0px -1px #FCF787;"/>	</div><br> 
@@ -1758,6 +1780,17 @@ var wcct_data = {"wcct_version":"2.12.0","currency":"\u5186","admin_ajax":"https
 <script type="text/javascript" src="https://wild-scene.com/jetb/wp-includes/js/wp-embed.min.js?ver=5.4.2"></script>
 <script type="text/javascript" src="https://wild-scene.com/jetb/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.16.4"></script>
 <script type="text/javascript">
+$( document ).ready(function() {
+  $(".moreText").hide();
+$( ".readmore" ).mouseenter(function() {
+  $(this).find(" .moreText").show( "slow" );
+  $(this).find(" .more").hide();
+});
+$( ".readmore" ).mouseleave(function() {
+  $(".moreText").hide();
+  $(".more").show("slow" );
+});
+});
 var metaslider_22 = function($) {$('#metaslider_22').addClass('flexslider');
             $('#metaslider_22').flexslider({ 
                 slideshowSpeed:8000,
@@ -1779,6 +1812,7 @@ var metaslider_22 = function($) {$('#metaslider_22').addClass('flexslider');
             var slider = !window.jQuery ? window.setTimeout(timer_metaslider_22, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_22, 1) : metaslider_22(window.jQuery);
         };
         timer_metaslider_22();
+
 </script>
 <script type="text/javascript">
 /* <![CDATA[ */
