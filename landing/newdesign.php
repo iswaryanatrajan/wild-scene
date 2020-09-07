@@ -236,7 +236,7 @@
           background:url(header1.png);
           background-size: cover;
         background-attachment: fixed!important;
-        height: 50vh;
+        height: 60vh;
         width:100%
         }
 
@@ -352,17 +352,21 @@
     .sample-section-wrap {
   position: relative;
   background-color: white;
+      margin-top: 40vh;
+    z-index: 10;
 }
 .header-section {
 position: fixed;
 width: 100%;
 padding-top: 150px;
+z-index: 0;
 }  
 .content2 img{width:75%}
 .social-media{
   position:fixed;
   right:40px;
-  top:200px
+  top:200px;
+  z-index: 0;
 }
 .social-media img{display:block;margin:30px}
 .banner{font-size:20px}
@@ -583,16 +587,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <img  src="header4.png"/>
                 </div>
               </div>
-          
+              <div style="height: 100%; 
+              margin-top: -20vh;">
+              <img src="header2.png" class="w-100" style="height:100%"/>
+              <div style="background: transparent linear-gradient(180deg, #FFFFFF00 35%, #FFFFFF 100%) 0% 0% no-repeat padding-box;position:relative;bottom:95%;height:100%"></div> 
+            </div>
             </section>
           
 
         <div class="sample-section-wrap">
-            <div class="pageHdr sample-section" style="height:60vh">
-               
-                <img src="header2.png" class="w-100" style="height:100%"/>
-                <div style="background: transparent linear-gradient(180deg, #FFFFFF00 35%, #FFFFFF 100%) 0% 0% no-repeat padding-box;position:relative;top:-530px;height:100%"></div> 
-        </div>
+         
   
            <!-- <div  id="scroll-down">
                 <div >
