@@ -209,14 +209,10 @@
           background:url(header1.png);
           background-size: cover;
         background-attachment: fixed!important;
-        height: 45vh;
+        height: 50vh;
         width:100%
         }
-        .pageHdr1{
-          background:url(header1.png);
-          background-size: cover;
-        height: 45vh;
-        }
+
         #scroll-down{
             position: absolute;
         bottom: 80px;
@@ -228,10 +224,11 @@
         align-items: center;
         letter-spacing: 2.5px;
         }
-    .about img{box-shadow: 12px 12px 0px -1px #F8DDA8;
+    .about img{box-shadow: 20px 20px 0px -1px #F8DDA8;
       height: 350px;
         width: 270px;
     }
+    .about .col-4 div:first-child{text-align:center}
     .leftBg{background: #F0E569;font-size: 120px;}
     .rightBg{background: #86CAD0;font-size: 120px;}
     .p-contents03 .row img{    right: 50px;
@@ -288,15 +285,15 @@
       padding:80px 0
     }
     .slideImg2{
-      background: linear-gradient(90deg, #FFF 70%, #f7f787 30%);
+      background: linear-gradient(90deg, #FFF 70%, #fff9ae 30%);
       padding:80px 0
     }
     .cardTitle{
-      font-size:1.5rem
+      font-size:1.2rem
     }
     .basicImg{position: relative;
         top: -40px;}
-    .card{    height: 250px;    box-shadow: 0px 0px 24px #0000001A;border:1px solid #fff !important}
+    .card{    height: 300px;    box-shadow: 0px 0px 24px #0000001A;border:1px solid #fff !important}
     .list-group-item{    padding: 1.25rem !important;background-color: #dee2e6 !important;}
     .list-group-item+.list-group-item {
         border-top-width: 1px;
@@ -332,7 +329,21 @@
 .header-section {
 position: fixed;
 width: 100%;
-}  </style>
+padding-top: 150px;
+}  
+.content2 img{width:75%}
+.social-media{
+  position:fixed;
+  right:40px;
+  top:200px
+}
+.social-media img{display:block;margin:30px}
+.banner{font-size:20px}
+.list-group-item{    border-bottom: none;
+    border-right: none!important;
+    border-left: none!important;
+    border-top: 1px solid #CCC!important;}
+</style>
 	
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" type="text/css">
@@ -355,8 +366,13 @@ width: 100%;
             
               <h1 class="text-center  pb-4 pt-5" >LIFE JACKET</h1>
               <p class="text-center" style="color:#fff">あなたの命を守ります。 大切なあなた、大切な家族とずっと一緒にいたいから</p> </div>
+              <div class="social-media">
+                <img  src="pinterest.svg"/>
+                <img  src="facebook.svg"/>
+                <img  src="instagram.svg"/>
+               </div>
               <div class="row pt-5" style="    position: relative;
-              top: 168px;
+              top: 250px;
               overflow: visible;
               z-index: 10;">
                 <div class="col-6 text-center">
@@ -366,7 +382,7 @@ width: 100%;
                   <img  src="header4.png"/>
                 </div>
               </div>
-           
+          
             </section>
           
 
@@ -374,7 +390,7 @@ width: 100%;
             <div class="pageHdr sample-section" style="height:60vh">
                
                 <img src="header2.png" class="w-100" style="height:100%"/>
-                <div style="background: transparent linear-gradient(180deg, #FFFFFF00 35%, #FFFFFF 100%) 0% 0% no-repeat padding-box;position:relative;top:-540px;height:100%"></div> 
+                <div style="background: transparent linear-gradient(180deg, #FFFFFF00 35%, #FFFFFF 100%) 0% 0% no-repeat padding-box;position:relative;top:-530px;height:100%"></div> 
         </div>
   
            <!-- <div  id="scroll-down">
@@ -385,6 +401,45 @@ width: 100%;
                 </div>
             </div>-->
                  <!--Content area -->
+                 <section class="p-contents01" >
+            
+                  <div class="c-section">		
+                    
+                   <div class="w-100 text-center">
+                    <h1 class="p-contents01__title " style="font-size: 3rem;    margin: auto;"> キャンペーンの案内</h1><br>	
+                   </div> 
+                 
+              
+            
+                 
+                  <div class="row ">
+        
+        <div class="col-12" style="border:5px solid #FCF787;padding-left: 100px;">
+          <div class="row">
+            <div class="col-7 p-5">
+            
+        
+                <!--<img class="w-100"  src="img24.jpg" />-->
+                <img class="w-100" src="img27.jpg" style="box-shadow:10px 10px 0px -1px  #FCF787">
+            
+            </div>
+             
+            <div class="col-5 banner p-5"><b><u>ライフジャケットを予約して、</u></b><br>
+               バッグ　or　フローティングミノー <br>
+               <span STYLE="COLOR:#E810B6">どちらかプレゼント！</span><BR><BR>
+                 さらに、<BR>
+                 <u>Twitterフォロー＆リツィートで</u> <br>
+                  バッグ＆フローティングミノー <br>
+                  <span style="color:#F8030D">どちらもプレゼント！</span>	</div>	
+          </div>
+    
+        </div>
+              
+                
+                            
+                </div>	
+                
+                </section>	
                  <section class="about" style="">
             
                     <div class="c-section">			
@@ -395,8 +450,8 @@ width: 100%;
                     <img src="about-1.png"/>
                   </div><br>
                 <p class="about__txt" >	
-              特筆すべきは最先端の加工技術である3D立体裁断が優れた吸着性能を発揮していることです。首や肩、胸部に柔軟に密着し、着用時の肩ずれやゴワツキなどの不快感を和らげられるようになっています。<br>		
-              また、体に触れる部分がメッシュ構造になっているので、熱気を逃がしてくれます。蒸れにくいことから、真夏のアウトドアでも快適に装着できます。	<br></p>
+                  WildSceneは【ソルトフィッシング】を専門としたブランドでネット通販専門のソルトルアーメーカーです。<br>
+                   従来のJAPANブランドのような高いブランドフィーを乗せることをせず、品質とコスパのバランスを追い求めた製品を取り揃えています。	<br></p>
              
             </div>
             <div class="col-4">
@@ -404,8 +459,8 @@ width: 100%;
                     <img src="about-2.png"/>
                   </div><br>
                 <p class="about__txt" >	
-              特筆すべきは最先端の加工技術である3D立体裁断が優れた吸着性能を発揮していることです。首や肩、胸部に柔軟に密着し、着用時の肩ずれやゴワツキなどの不快感を和らげられるようになっています。<br>		
-              また、体に触れる部分がメッシュ構造になっているので、熱気を逃がしてくれます。蒸れにくいことから、真夏のアウトドアでも快適に装着できます。	<br></p>
+                  WildSceneの理念としましては、【お客様と作り上げていく】を目標に製品開発を心がげています。<br>
+                   初めて存在を知った方も、もう知っている方も含めてこれからもWildSceneの製品開発とご支援をよろしくお願い致します。	<br></p>
              
             </div>
             <div class="col-4">
@@ -413,8 +468,8 @@ width: 100%;
                     <img src="about-3.png"/>
                   </div><br>
                 <p class="about__txt" >	
-              特筆すべきは最先端の加工技術である3D立体裁断が優れた吸着性能を発揮していることです。首や肩、胸部に柔軟に密着し、着用時の肩ずれやゴワツキなどの不快感を和らげられるようになっています。<br>		
-              また、体に触れる部分がメッシュ構造になっているので、熱気を逃がしてくれます。蒸れにくいことから、真夏のアウトドアでも快適に装着できます。	<br></p>
+                  Wild Sceneではオリジナルのメタルジグ「Wild Scene（ワイルドシーン）」をはじめ、当店こだわりのソルトルアーを多数取り扱っております！ <br>
+                  ルアーロストやキャストミス・根がかりが気になり狙えなかったポイントも大胆に攻め大物狙いを可能に！週末アングラーのお財布に優しいコストパフォーマンスでご提供しております！	<br></p>
              
             </div>
             </div>									
@@ -481,17 +536,17 @@ width: 100%;
                     </div>
                     <div class="row content2">
         
-                      <div class="col-6 leftBg"><h1>ベスト</h1><h1 class="text-right"> タイプ</h1><img src="jacket.png" /></div>
+                      <div class="col-6 leftBg"><h1>ベスト</h1><h1 class="text-right"> タイプ</h1><img src="jacket1.png" style="width:50%"/></div>
                       <div class="col-6"><img src="pdtImg1.png" />
                         <img src="pdtImg2.png" /></div>
                     </div>
                     <div class="row content2">
                 
                       <div class="col-6"><img src="pdtImg3.png" /><img src="pdtImg4.png" /></div>
-                      <div class="col-6 rightBg"><h1>腰巻</h1><h1 class="text-right">タイプ</h1><img src="jacket.png" /></div>
+                      <div class="col-6 rightBg"><h1>腰巻</h1><h1 class="text-right">タイプ</h1><img src="jacket4.png" /></div>
                     </div>
     
-                    <div class="row">
+                    <div class="row mt-3">
                       <div class="col-12">
                         <p class="p-contents01__txt text-center">
                           重さを徹底的に減らすよう追求し、本体重量をベストタイプ550g/ 腰巻タイプ750gにまで軽量化しました。 <br>
@@ -557,19 +612,19 @@ width: 100%;
                               <h1 class="p-contents01__title" style="border-bottom:3px solid #e3db5d"	>膨張方式</h1>
                               <table class="table table-noborder " style="border:none">
                                 <tr>
-                                  <td style="width:23%;background:#EEEEEE;padding:5px" >
+                                  <td style="width:20%;background:#EEEEEE;padding:5px" >
                                     <img src="img11.jpg" style=""/><br><br><br><br>
                                    
                                   </td>
-                                  <td style="width:60%;" >
+                                  <td style="width:50%;" >
                                     <p class="p-contents01__txt" >	
                                       ライフジャケットは、自動膨張式と手動膨張式の2種類に分かれます。	<br>
                                       自動膨張式は、使い捨てのセンサー（スプール）が水を感知することで働き、バネの力でボンベの封に穴をあける仕組みです。<br>
                                       ライフジャケットを手動で作動させなくてよいので、泳ぎが苦手な方でも落水した際にパニックにならずに済みます。	<br>
                                       釣りの最中に突然溺れたときなどに効力を発揮します。また、小さなお子さんには欠かせない一品となります。	</p>
                                   </td>
-                                  <td style="width:20%;vertical-align: middle" rowspan="2" >
-                                    <img src="header4.png" style="left:50px;    right: 0px;"/>
+                                  <td style="width:30%;vertical-align: middle" rowspan="2" >
+                                    <img src="header5.png" style="left:0px;    right: 0px;"/>
                                   </td>
                                 </tr>
                                 <tr>
@@ -650,10 +705,10 @@ width: 100%;
                   日本の国交省は塩化ビニルで作成された気室について、使用上問題がないと判断できる条件を下記の通り定めています。<br>	
                   ・膨張後24時間経過時に浮力を7.5kg以上に保てる<br>	
                   ・二酸化炭素の減少度を－5%以下に抑えられる<br>	
-                  しかし、ワイルドシーンのライフジャケットは安全性の追求にこだわり、これらの条件よりも厳しい国際基準IMOに準拠した規格で気室を開発しました。<br>	
+                  しかし、ワイルドシーンのライフジャケットは安全性の追求にこだわり、これらの条件よりも厳しい国際基準IMOに準拠した規格で気室を開発しました。<br>	<br>	
                   【約3日間の持続力】<br>
                   結果、気室における二酸化炭素減少率の比較実験で、膨張後72時間経過しても減少率を約0%に近づけることに成功。<br>	
-                  つまり、日本国内の基準を満たしただけの製品よりも水中で浮かんでいられる日数も長く、救助までの時間を延ばせるといえます。<br>	
+                  つまり、日本国内の基準を満たしただけの製品よりも水中で浮かんでいられる日数も長く、救助までの時間を延ばせるといえます。<br>	<br>	
                   【法定基準を上回る浮力】<br>
                   また、ワイルドシーンのライフジャケットはボンベの内容量をできる限り増加しているのも特徴です。そのため、浮力は法定基準の7.5kgを上回る16.2kgになっています。浮力とは文字通り水中から受ける浮き上がる力のことです。<br>	
                   水中では体重が1/10になることをふまえると、ワイルドシーンのライフジャケットを装着すれば体重162kgだとしても浮かせられます。<br>	
@@ -667,7 +722,7 @@ width: 100%;
           </div>
           <div class="row section4 mb-5">
             <div class="col-5 text-center">
-              <img class="w-100 m-5" src="image04.jpg"  alt="" style="box-shadow:33px 33px 0px -1px  #F8DDA8;">
+              <img class="w-100 m-5" src="image04.jpg"  alt="" style="box-shadow:10px 10px 0px -1px  #F8DDA8;">
           </div>
             <div class="col-7">
               <p class="content5Title" style="border-left:0">専用生産ラインにおける入念なチェック体制</p>
@@ -707,7 +762,7 @@ width: 100%;
       </div>
       <div class="row section4 mb-5">
         <div class="col-5 text-center">
-          <img class="w-100 m-5" src="image06.jpg"  alt="" style="box-shadow:33px 33px 0px -1px  #F8DDA8;">
+          <img class="w-100 m-5" src="image06.jpg"  alt="" style="box-shadow:10px 10px 0px -1px  #F8DDA8;">
       </div>
         <div class="col-7">
           <p class="content5Title" style="border-left:0">防水&UVカット性能で生地が劣化しにくい</p>
@@ -751,7 +806,7 @@ width: 100%;
     
     <div class="row section4 mb-5">
       <div class="col-5 text-center">
-        <img class="w-100 m-5" src="image08.jpg"  alt="" style="box-shadow:33px 33px 0px -1px  #F8DDA8;">
+        <img class="w-100 m-5" src="image08.jpg"  alt="" style="box-shadow:10px 10px 0px -1px  #F8DDA8;">
     </div>
       <div class="col-7">
         <p class="content5Title" style="border-left:0">調節具には耐久性の高いポリアセタールを使用</p>
@@ -798,11 +853,33 @@ width: 100%;
             
                  </section>  
                  
-                 <section class="p-contents04 mb-5">
+                 <section class="p-contents04 mb-5" style="background: transparent linear-gradient(130deg, #FFFFFF 0%, #A8E6EC 100%) 0% 0% no-repeat padding-box;">
             
-                  <div class="c-section">			
+                  <div class="c-section" style="    max-width: 65%;
+                  background: #fff;
+                  padding: 0;    box-shadow: 0px 0px 24px #0000001A;
+    border: 1px solid #fff !important;">			
                
             <img class="w-100"  src="img23.jpg" />
+            <div class="row p-3">
+              <h1 class="mb-5 mt-5 w-100 font-weight-bold text-center" style="color:#000">ライフジャケットが大切な命を守る</h1>
+              <div class="col-6" style="color:#707070">
+                釣りやカヌーなど、水辺のアウトドアでは危険はつきものです。 せっかく楽しみにしていたイベントも、突然のトラブルによって 悲しい事態に発展することもあります。
+                <br><br>
+                アウトドアで大切な命を失うことがあってはなりません。 大切な命を守り、楽しい思い出を作るにはライフジャケットが不可欠です。
+                <br><br>
+                 ほんの少しの配慮で大切な子供の命を守れる 子供の将来のことを考えてみてください。
+                 わんぱくだった子供が暖かな家庭を築き、 親御さんは孫に囲まれて幸せなひと時を過ごしているかもしれません。<br>
+                  しかし、アウトドアの水難事故は恐ろしいです。トラブルに巻き込まれれば、 一瞬でそのような未来が失われてしまうかもしれません。
+              </div>
+              <div class="col-6" style="color:#707070">
+                そうはいっても、子供の知的好奇心はとても旺盛。食べてはならないものを 口に入れたり、冒険心を抑えられず秘密基地のような狭い場所に入ったりなど、 ハラハラするケースもあるでしょう。 <br><br>
+                 水辺のアウトドアも同様です。好奇心を抑えられず、親御さんが目を離したうちに 危険な場所で遊んでしまうかもしれません。 <br><br>
+                 ただ、過保護になりすぎても 子供の成長を妨げてしまいます。 このようなジレンマでストレスを抱えていては、子供はもちろんのこと、 親御さんもアウトドアを心から楽しめません。
+                 最低限の対策をすれば、 トラブルに対する不安を和らげてくれます。何も難しいことではありません。<br>
+                  ほんの少しの配慮で、「家族で毎年アウトドアを楽しめる」、そんな当たり前の 日常を守ることができるのです。ライフジャケットを準備して、 これから明るい未来を築いていく子供を守ってください。
+              </div>
+            </div>
             <br><br>
           
                   </div>					
@@ -906,7 +983,7 @@ width: 100%;
                 <div class="col-12" style="background-color: #FAF111;height:100px;opacity: 0.1;">
                 </div>
                 <div class="col-6 offset-6" >  <img class="w-100"  src="jacket-front.png" style="position: absolute;
-                  top: -200px;"/></div>
+                  top: -300px;"/></div>
                 <div class="col-6">
                   
                    <b class="p-contents01__title" style="border-bottom: 3px solid #e3db5d;font-size: 1.3rem;">ライフジャケットの着用義務に関する現状</b><br>	
@@ -1018,36 +1095,34 @@ width: 100%;
             
               <div class="c-section">		
                 
-                <h1 class="p-contents01__title"> キャンペーンの案内</h1><br>	
              
-            <p class="p-contents03__txt">	
+                <div class="w-100 text-center">
+                  <h1 class="p-contents01__title " style="font-size: 3rem;    margin: auto;"> キャンペーンの案内</h1><br>	
+                 </div> 
+          
         
              
-              <div class="row">
-    <div class="slideImg1 col" style="display: inline;  ">
+              <div class="row ">
     
-        <!--<img class="w-100"  src="img24.jpg" />-->
-        <img class="w-100" src="img27.jpg" style="  position: absolute;
-        z-index: 10;">
-    
-    </div>
-    <div class="col-10" style="border:5px solid #FCF787">
+    <div class="col-12" style="border:5px solid #FCF787;padding-left: 100px;">
       <div class="row">
-        <div class="col-2"></div>  	
-        <div class="col-10">下記どちらか	<br>
-          バッグ	<br>
-          or	<br>
-          フローティングミノー<br>	</div>	
+        <div class="col-7 p-5">
+        
+    
+            <!--<img class="w-100"  src="img24.jpg" />-->
+            <img class="w-100" src="img27.jpg" style="box-shadow:10px 10px 0px -1px  #FCF787">
+        
+        </div>
+       	
+        <div class="col-5 banner p-5"><b><u>ライフジャケットを予約して、</u></b><br>
+           バッグ　or　フローティングミノー <br>
+           <span STYLE="COLOR:#E810B6">どちらかプレゼント！</span><BR><BR>
+             さらに、<BR>
+             <u>Twitterフォロー＆リツィートで</u> <br>
+              バッグ＆フローティングミノー <br>
+              <span style="color:#F8030D">どちらもプレゼント！</span>	</div>	
       </div>
-      <div class="row">
-        <div class="col-2">URL</div>  	
-        <div class="col-10" style="word-break: break-word;">https://www.amazon.co.jp/Wild-Scene-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B7%E3%83%BC%E3%83%B3-%E3%83%95%E3%83%AD%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9F%E3%83%8E%E3%83%BC-11-5cm/dp/B07YNHVVQB?ref_=ast_sto_dp	</div>	
-        </div>		
-        <div class="row">
-          <div class="col-2">Twitter の拡散</div>  	
-          <div class="col-10"><br>
-            両方をもらえる。</div>	
-          </div>	
+
     </div>
           
             
@@ -1109,158 +1184,164 @@ width: 100%;
     その他に大切なことは服装と準備です。ここから釣りの全てが始まるといっても過言ではありません。それは安全を確保する格好でなければなりません。特に堤防や磯、また船の釣りではライフジャケットが必要不可欠です。知り合いやお店で借りられる場合はいいですが、基本的には自分で揃えることを心がけましょう。劣化などによる不備で本来の安全が確保出来ないことも懸念されます。使用前にまず確認をして下さい。
     <br><br>
     
-    <h3><b>Basic clothing and equipment</b><br></h3>
+    <h3><b>【基本の服装と装備】</b><br></h3>
     <div class="row mt-5">
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="cap.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>キャップ</b></div>
+              <div class="col-4"><img src="cap.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>キャップ</b></div>
             </div>
            
-            <div class="col-12">It is also necessary to avoid direct sunlight, and it also has the function of protecting the head so that the hook of the lure does not get stuck. Also, please be sure to cover it when going fishing with children. Since there are insects such as mosquitoes and flies in the summer outdoors, the cap is a must-have item.</div>
+            <div class="col-12">
+              直射日光を避ける為にも必要ですし、ルアーのフックが刺さったりしないように頭を守る働きもあります。また子どもと一緒に釣りに出かける時は必ず被らせて下さい。
+              夏の野外は蚊やアブなどの虫もいますのでキャップは必須装備です。
+            </div>
           </div>
         </div>
       </div>
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="jacket.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Shirt</b></div>
+              <div class="col-4"><img src="jacket.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>シャツ</b></div>
             </div>
            
-            <div class="col-12">Long-sleeved shirts are good for preventing insect bites and sunburn. (There are a lot of cheap, breathable, quick-drying, and cheap ones.) Furthermore, I would like to avoid exposing my skin as much as possible if I hit the skin with the sea breeze faster than usual.  </div>
+            <div class="col-12">
+              虫刺され防止、日焼け予防に長袖シャツが良いでしょう。
+              （通気性が良く、速乾性のある安価なものは探せばたくさんありますよ。）さらに肌に潮風が直接当たると体力が通常より早く奪われるという観点から露出は極力避けたいです。
+              </div>
         </div>
       </div>
       </div>
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="underwear.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Underwear</b></div>
+              <div class="col-4"><img src="coat.png" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>アンダーウエア</b></div>
             </div>
             <div class="col-12">
-              In order to sweat a lot in the summer, let's choose breathable and quick-drying clothes. And in winter it is better to wear heat-generating material. Le winter fishing lures are always in proper motion, so your body is always warm and you can concentrate on fishing.
+              夏はたくさんの汗をかくためにやはり通気性＆速乾性が高いものを選びましょう。そして冬は発熱素材のウエアを着用した方が良いです。ル冬のルアー釣りでは常時適度な動きをしている為、常に体が暖かくて釣りに集中出来ます。
              </div>
           </div>
         </div>
       </div>
     </div>
     <div class="row mt-5">
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="jeans.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Pants</b></div>
+              <div class="col-4"><img src="jeans.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>パンツ</b></div>
             </div>
            
-            <div class="col-12">Basically, you can use pants that you are familiar with, but choose those that are good for getting dirty. If possible, we recommend that you have functional and physical fit such as heat retention, breathability and quick-drying according to the season.</div>
+            <div class="col-12">基本的には履き慣れたもので構いませんが、汚れても良いものを選びましょう。出来れば季節に合わせた保温性や通気性・速乾性などの機能的で体に合うものがオススメです。</div>
           </div>
         </div>
       </div>
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="jacket.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Shirt</b></div>
+              <div class="col-4"><img src="jacket-small.png" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>ライフジャケット</b></div>
             </div>
            
-            <div class="col-12">Long-sleeved shirts are good for preventing insect bites and sunburn. (There are a lot of cheap, breathable, quick-drying, and cheap ones.) Furthermore, I would like to avoid exposing my skin as much as possible if I hit the skin with the sea breeze faster than usual.  </div>
+            <div class="col-12">釣行時は必ずライフジャケット（フローティングゲームベスト）を着用しましょう。フローティングゲームベストは浮力体だけではなく、ルアーやラインを収納可能で、手に持つものを少なく出来るためルアー釣り等では必須アイテムになります。</div>
         </div>
       </div>
       </div>
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="bag.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Underwear</b></div>
+              <div class="col-4"><img src="bag.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>バッグ</b></div>
             </div>
             <div class="col-12">
-              In order to sweat a lot in the summer, let's choose breathable and quick-drying clothes. And in winter it is better to wear heat-generating material. Le winter fishing lures are always in proper motion, so your body is always warm and you can concentrate on fishing.
+              必要なアイテムをコンパクトにまとめてバッグに入れておける為、釣りの邪魔にならない為便利なアイテムです。リュックタイプやショルダータイプを選びましょう。
              </div>
           </div>
         </div>
       </div>
     </div>
     <div class="row mt-5">
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="clock.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Pants</b></div>
+              <div class="col-4"><img src="clock.png" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>時計</b></div>
             </div>
            
-            <div class="col-12">Basically, you can use pants that you are familiar with, but choose those that are good for getting dirty. If possible, we recommend that you have functional and physical fit such as heat retention, breathability and quick-drying according to the season.</div>
+            <div class="col-12">最近の時計はただ時間を見る為だけのものではなくて、コンパス機能付きで方位が分かる時計や、電話機能付きだったり、さらに潮見表機能が付いているものもあります。もちろん時計は防水機能なものを選びましょうね。</div>
           </div>
         </div>
       </div>
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="trainers.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Shirt</b></div>
+              <div class="col-4"><img src="trainers.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>シューズ</b></div>
             </div>
            
-            <div class="col-12">Long-sleeved shirts are good for preventing insect bites and sunburn. (There are a lot of cheap, breathable, quick-drying, and cheap ones.) Furthermore, I would like to avoid exposing my skin as much as possible if I hit the skin with the sea breeze faster than usual.  </div>
+            <div class="col-12">釣りの最中はつい夢中になり足元がぬかるんでいることに気づかなくて転倒したりする危険性があります。釣りに行く時は靴底が滑りにくいシューズを履いていきましょう。特に磯場など足場が悪いことが分かっているところでは専用のスパイクシューズが絶対です。</div>
         </div>
       </div>
       </div>
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="pliers.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Underwear</b></div>
+              <div class="col-4"><img src="pliers.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>小物類</b></div>
             </div>
             <div class="col-12">
-              In order to sweat a lot in the summer, let's choose breathable and quick-drying clothes. And in winter it is better to wear heat-generating material. Le winter fishing lures are always in proper motion, so your body is always warm and you can concentrate on fishing.
+              狙うターゲットにもよりますが、魚のヒレや歯、毒を持つ魚など怪我をする恐れがあるので、魚を掴む道具や針のフックを外すプライヤーがあった方が安全に釣りをする事が出来ます。
              </div>
           </div>
         </div>
       </div>
     </div>
     <div class="row mt-5">
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="gloves.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Pants</b></div>
+              <div class="col-4"><img src="gloves.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>手袋</b></div>
             </div>
            
-            <div class="col-12">Basically, you can use pants that you are familiar with, but choose those that are good for getting dirty. If possible, we recommend that you have functional and physical fit such as heat retention, breathability and quick-drying according to the season.</div>
+            <div class="col-12">濡れた手でロッドを握っても滑らない手袋があると便利。またグリップ性のある素材で指先が出るようにカットされた手袋もある。ルアーの針で手が傷つく心配も無いですし、真冬は防寒対策にもなります。</div>
           </div>
         </div>
       </div>
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="trousers.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Shirt</b></div>
+              <div class="col-4"><img src="trousers.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>ウェーダー</b></div>
             </div>
            
-            <div class="col-12">Long-sleeved shirts are good for preventing insect bites and sunburn. (There are a lot of cheap, breathable, quick-drying, and cheap ones.) Furthermore, I would like to avoid exposing my skin as much as possible if I hit the skin with the sea breeze faster than usual.  </div>
+            <div class="col-12">浅瀬に下りて釣りをする場合や低い磯場・波が高い日はこのウェーダーがあると便利です。 </div>
         </div>
       </div>
       </div>
-      <div class="col-4">
+      <div class="col-lg-4 col-md-6 col-12">
         <div class="card">
           <div class="card-body">
             <div class="row">
-              <div class="col-6"><img src="raincoat.svg" class="basicImg"></div>
-              <div class="col-6 text-right cardTitle"><b>Underwear</b></div>
+              <div class="col-4"><img src="raincoat.svg" class="basicImg"></div>
+              <div class="col-8 text-right cardTitle"><b>レインウエア</b></div>
             </div>
             <div class="col-12">
-              In order to sweat a lot in the summer, let's choose breathable and quick-drying clothes. And in winter it is better to wear heat-generating material. Le winter fishing lures are always in proper motion, so your body is always warm and you can concentrate on fishing.
+              雨の日には必ず必要になります。また突然のにわか雨などにも備えて事前に用意はしておきましょう。ビニール製の安価なものよりも、ムレない素材で防水性の高いウエアを選びましょう。もちろん安価なビニール製よりも値段は高くなりますが、こっちのほうが快適です。
              </div>
           </div>
         </div>
@@ -1281,24 +1362,55 @@ width: 100%;
           flex-direction: column;
           justify-content: center;">
           <div class="row tabs">
-            <div class="col-4">
+            <div class="col-3 text-center">
               <div class="list-group" id="list-tab" role="tablist">
-                <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Embankment</a>
-                <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Port</a>
-                <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Tetra</a>
-                <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">Surf</a>
-                <a class="list-group-item list-group-item-action" id="list-kawaguchi-list" data-toggle="list" href="#list-kawaguchi" role="tab" aria-controls="kawaguchi">Kawaguchi</a>
-                <a class="list-group-item list-group-item-action" id="list-jisso-list" data-toggle="list" href="#list-jisso" role="tab" aria-controls="jisso">Jisso</a>
+                <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">堤防</a>
+                <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">港</a>
+                <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">テトラ</a>
+                <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">サーフ</a>
+                <a class="list-group-item list-group-item-action" id="list-kawaguchi-list" data-toggle="list" href="#list-kawaguchi" role="tab" aria-controls="kawaguchi">河口</a>
+                <a class="list-group-item list-group-item-action" id="list-jisso-list" data-toggle="list" href="#list-jisso" role="tab" aria-controls="jisso">地磯</a>
               </div>
             </div>
-            <div class="col-8">
+            <div class="col-9 p-4">
               <div class="tab-content" id="nav-tabContent">
-                <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">Tab 1</div>
-                <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">Tab 2</div>
-                <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">Tetra is originally called generically from the wave-dissipating block, and it is said that the reason for installing it is mainly to prevent erosion due to waves. The size of Tetra grows in proportion to the size of the wave. Therefore, be aware that large waves, swells, and fast tides will flow where large tetras are installed. The risk is so high, so be careful. Tetra, which has a flat surface among the tetras, has a more stable scaffolding than the round shape, but on a windy day, the body becomes unstable, which is dangerous. Furthermore, Tetra, which is close to the sea, is very dangerous because it has thin seaweed and is slippery. Never ride on a particularly wet Tetra.</div>
-                <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">Tab 4</div>
-                <div class="tab-pane fade" id="list-kawaguchi" role="tabpanel" aria-labelledby="list-kawaguchi-list">Tab 5</div>
-                <div class="tab-pane fade" id="list-jisso" role="tabpanel" aria-labelledby="list-jisso-list">Tab 6</div>
+                <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">各フィールドの中において最もポピュラーな場所はこの堤防です。場所によっては車を横付けできますし、老若男女、ファミリーから上級者まで楽しめます。気軽に釣りが出来る場所だからこそ、人が多く集まりトラブルも多いのが現状です。
+                  <br><br>
+                  特に堤防での重要なマナーは先行者に配慮が必要だということです。つまり竿を出す時に先行者の邪魔にならないように一定の間隔をあけたり、また一言「隣で釣りをしていいですか？」などと声かけをすると、トラブルになる確率も低くなります。
+                  <br><br>
+                  また堤防では禁止場所の所も年々増加してきており、絶対金網や柵をよけて立ち入り禁止エリアでの釣りはやめましょう。</div>
+
+                <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
+                  堤防と同様に人気の釣りスポットの港。港は変化にとんだ地形や多くの障害物から成り立っている為、魚にとってもすみやすい環境となる要素が多いのです。人が多く集まるということは、同じ釣り方の人もいれば違う釣り方の人、さらに狙うターゲットも人によって様々です。最低限度ルールを守らないとトラブルになりやすい場所でもあるのです。
+                  <br><br>
+例ですが、エサ釣りでエサを撒いて魚をおびき寄せている横で平然とルアー釣りで”ジャカジャカ”ルアーを巻いていたら、せっかくの集まった魚も逃げてしまいかねませんよね。ですからお互いに一定の距離を保つ事がやはり重要になってきます。（一般的には10ｍ以上間隔を空けていればトラブルになることがほぼないそうです）
+<br><br>
+最後に漁港では漁業者の邪魔をしないようにして下さい。そこで仕事をしている漁師さんにとっては生活がかかった大切な場所なので、迷惑にならないように釣りをしましょう。
+                </div>
+
+                <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
+                  テトラはもともと消波ブロックから総称で呼ばれており、設置の理由は主に波による浸食を防ぐ為であると言われています。波の大きさに比例して、テトラのサイズも大きくなります。
+                  <br><br>
+                  その為大型のテトラが設置されている場所などでは、大きな波やウネリ、速い潮が流れるということを知っておきましょう。それだけ危険度は高いので十分に気をつけて下さい。
+                  <br><br>
+                  またテトラの中でも平面があるテトラは丸形に比べて足場が安定していますが、風が強い日は体が不安定になり危ないです。さらに海に近いテトラなどは薄ら海苔が生えて滑りやすいところもあり大変危険です。特に濡れているテトラには絶対乗らないようにしましょう。
+                    </div>
+               
+                   <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
+                     サーフで注意すべき点は水・砂ともに立ち入りし過ぎないことです。ウエーダーを着ているからといって、水に立ち入る時はせめて膝下までにして下さい。これ以上深い所へ行かないようにと自分で線引きすることも大事です。急に深くなっている場所や不意の大波もあるので気をつけて下さい。
+                  <br><br>
+                  また車の止める場所にも注意をしなければなりません。全国の中で一部の砂浜においては車で走っても問題ないところはありますが、基本は砂浜へ車で立ち入ってしまうと、スタックして抜け出せなくなる可能性がありますので十分注意しましょう。ポイントによってはサーファーや海水浴場がいるところがありますが、そこで釣りをするのはやめましょう。トラブルの原因になります。</div>
+                <div class="tab-pane fade" id="list-kawaguchi" role="tabpanel" aria-labelledby="list-kawaguchi-list">
+                  河口付近では水の流れに注意をしたい。ここではよくウエーディングを楽しんでいる釣り人を見かけるが、川の流れが速い場所に入ると危険性が増します。最悪なことに泥にはまったり、エイに刺されたりすることもあります。サーフ同様にウエーディングをする時は膝くらいまでの浅い場所で竿を構えましょう。
+                  <br><br>
+                  また干潮時は通れても、満潮時には通れなくなる河口もあります。その時の潮位をしっかり確認して、帰路の確保を考えて釣りをしましょう。（集中するあまり気がついたらだいぶ元の位置から離れすぎていたなんてこともありますので）
+                  <br><br>
+                  近年は異常気象で〇〇年に一度あるかないかのゲリラ豪雨などの影響もあって、想定外の状況になることも珍しくありません。空の様子やスマホでの天候のチェックをまめに行いましょう。</div>
+                <div class="tab-pane fade" id="list-jisso" role="tabpanel" aria-labelledby="list-jisso-list">基本的に船でしか渡れない磯を沖磯と呼ぶのに対して、歩いて行ける磯場のことを地磯と呼びます。堤防の横にある地磯から、1時間以上険しい道を歩いて行く地磯まで色々とあります。
+                  <br><br>
+                  1時間以上かけて急斜面を駆け上り、ロープやはしごなどを使って普段では決して行けない様な磯は、まず初心者や中級者は辞めておきましょう。こういった場所は魚影は濃く大物も狙えますが、水深がある上に潮の流れも速く、ラインや根掛かりのトラブルが急激に増えます。つまりタックルに対する注意力が人一倍になる為、釣りどころではくなります。
+                  <br><br>
+                  装備で大事な物は、『ライフジャケット』・『磯靴』『グローブ（5本指タイプか3本指カットタイプがいい）』です。これらの三種の神器は必ず忘れないように装着して下さい。</div>
               </div>
             </div>
           </div>
@@ -1317,13 +1429,16 @@ width: 100%;
     
             <div class="col-6">
              
-    <h4 class="p-contents01__title" style="border-bottom: 3px solid #FCF787;"> Notes for night games	</h4> 
+    <h4 class="p-contents01__title" style="border-bottom: 3px solid #FCF787;"> 【ナイトゲームにおける注意点】	</h4> 
     <p class="p-contents01__txt" > 
-      Originally it used to be said that you can't catch fish unless it's dark, but nowadays the day game is well established. However, night games are generally easier to target for larger sizes. On the other hand, there are more things to watch out for than day games. The rate of occurrence of troubles (scaffolding without night lights, line troubles, etc.) and accidents (falling into the sea, etc.) due to a significantly narrowed field of view is high, so fishing with more than one person is first desirable as much as possible. .. First of all, be sure to wear the light when going out to the night game. You can choose from many types available at shops and on the Internet, from bright LED type lights on your head to those on your neck. Even if you haven't played a night game yet, be sure to purchase it in advance for the coming day.</p>
+      もともと昔は暗くないと魚は釣れないと言われていたらしいが、今ではデイゲームがすっかり定着している。しかし一般的にナイトゲームの方が大型のサイズが狙えやすいのです。<br><br>
+       反面、注意しないといけないことはデイゲームよりもたくさんあります。大幅に視界が狭くなることによるトラブル（常夜灯のない足場やライントラブル等）・事故（海への転落など）の発生率が高くなりますので、極力単独より複数人での釣行がまず望ましいです。 <br><br>
+       まずはナイトゲームに出掛ける時に、必ずライトを身に付けて行きましょう。頭に付ける明るいLEDタイプのライトから首に掛けるタイプまで、お店やインターネットで多くの種類の中から選べますので購入することをオススメします。まだナイトゲームをした事がない人でも来るべき日に備え、事前に購入しておきましょう。
+    </p>
     
            </div>
             <div class="col-6 section4">
-              <div class="text-center" ><img class="w-50"  src="image32.jpg" style="box-shadow:  33px 33px 0px -1px #FCF787;"/>	</div><br> 
+              <div class="text-center" ><img class="w-50"  src="image32.jpg" style="box-shadow:  10px 10px 0px -1px #FCF787;"/>	</div><br> 
           
             </div>
           </div>
@@ -1335,8 +1450,12 @@ width: 100%;
             
       <div class="c-section">			
         <div class="row">
-          <h4 class="p-contents01__hdr">Preparation for Poisoned Fish</h4>
-          <p class="p-contents01__txt" >As a precaution on the waterside, as I mentioned earlier, it is unavoidable to encounter poisonous fish. However, if you deal with it with the right knowledge, you will not be afraid more than necessary. First of all, it is most important to recognize that it is a poisonous fish. Instead of grasping the fish with bare hands, remove the needle firmly with pliers. The most common case of accidentally sticking a poisonous needle is when you remove the poisoned fish you caught from the needle. It's a good idea to have a poison remover as a talisman. This is a suction type first aid poison remover. It is easy to use and designed to strongly inhale and extract poison from wounds, so I think it is easier to eliminate the poison than squeezing it with your finger or sucking it out with your mouth. The price is not very high, so it's a good idea to have it ready.</p>
+          <h4 class="p-contents01__title">【毒魚に対する心構え】</h4><br>
+          <p class="p-contents01__txt" >
+            水辺の注意点として、先ほどにも述べましたが毒を持つ魚に遭遇することは避けられません。しかし正しい知識をもって対処すれば、必要以上に恐れることはありません。<br><br>
+             まず第一に毒を持つ魚であるという事を認識することが最重要で、素手で魚を掴まないで、プライヤーなどでしっかり針を外してあげましょう。誤って毒針に刺さる時の最も多いケースは釣った毒魚を針から外す時です。
+              お守りとしてポイズンリムーバーを準備しておけば安心です。これは吸引タイプの応急用毒吸取り器になります。使い方は簡単で、強力に毒を吸引し傷口から抽出するよう設計されているので、指で絞り出したり口で吸い出すよりは毒を排除しやすいと思います。値段も凄く高くはないので、準備しておくのがいいでしょう。
+          </p>
           </div>
         </div>
     </section>
@@ -1344,13 +1463,14 @@ width: 100%;
     <section class="p-contents04 mb-5">
             
       <div class="c-section ">			
-        <div class="row">
+        <div class="row m-5">
           <div class="col-4 slideImg2">
             <img class=""  src="image33.jpg" style="position: relative;"/>	 
           </div>
-          <div class="col-8" style="background-color: #FCF787;padding:15px;padding-top: 50px;">
-            <h4 class="p-contents01__hdr">Summary</h4>
-            <p class="p-contents01__txt" >It is important for us to have basic knowledge and to follow the rules and manners properly. I'm working as a fisherman in the area and locals, such as "I don't throw away trash", "I can't enter the off-limits area", "I don't park cars illegally" and "I don't make noise". Be sure not to bother everyone. Anglers who can keep the minimum manners are really nice, and the most important thing is to enjoy fishing so that they don't bother each other.</p>
+          <div class="col-8" style="background-color: #fff9ae;padding:15px;padding-top: 50px;">
+            <h4 class="p-contents01__hdr">【まとめ】</h4><br>
+            <p class="p-contents01__txt" style="color:#000" >私達は基礎知識をしっかり身に付け、ルールとマナーをきちんと守ることが大切です。”ゴミを捨てない”、”立ち入り禁止場所には入らない”、”車の無断駐車・違法駐車をしない”、”騒音をたてない”といった地域住民やその場所で漁師として仕事をしている方々に絶対迷惑を掛けないようにしましょう。<br><br>
+               最低限度のマナーを守れる釣り人は本当に素敵ですし、釣り人同士お互いが不愉快な思いをしないように釣りを楽しむことが一番大事なことですよね。</p>
            
           </div>
        </div>
