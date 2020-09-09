@@ -652,7 +652,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
             <div class="col-4">
                 <div>
-                    <img src="about-1.png"/>
+                    <img src="about-1.jpg"/>
                   </div><br>
                 <p class="about__txt" >	
                   WildSceneは【ソルトフィッシング】を専門としたブランドでネット通販専門のソルトルアーメーカーです。<br>
@@ -661,7 +661,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="col-4">
                 <div>
-                    <img src="about-2.png"/>
+                    <img src="about-3.jpg"/>
                   </div><br>
                 <p class="about__txt" >	
                   WildSceneの理念としましては、【お客様と作り上げていく】を目標に製品開発を心がげています。<br>
@@ -670,7 +670,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="col-4">
                 <div>
-                    <img src="about-3.png"/>
+                    <img src="about-2.jpg"/>
                   </div><br>
                 <p class="about__txt" >	
                   Wild Sceneではオリジナルのメタルジグ「Wild Scene（ワイルドシーン）」をはじめ、当店こだわりのソルトルアーを多数取り扱っております！ <br>
