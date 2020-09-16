@@ -553,10 +553,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="https://wild-scene.com/my-account/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MY PAGE</font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">My page</font></font></span></a></li>
 <!--<li><a href="https://wild-scene.com">New Menu<span>New Menu</span></a></li>-->
 </ul>			</nav>
-			<p class="btn-search"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">?</font></font></p>
+			<p class="btn-search"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></p>
 			<div class="header-search l-absolute">
 				<form action="https://wild-scene.com/" method="get" id="jet_searchform-header">
-					<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input id="jet_searchBtn_header" type="submit" name="searchBtn" value="?"></font></font>
+					<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input id="jet_searchBtn_header" type="submit" name="searchBtn" value=""></font></font>
 					<input id="jet_keywords_header" type="text" name="s" placeholder="">
 				</form>
 			</div>
@@ -625,12 +625,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
         
                 <!--<img class="w-100"  src="img24.jpg" />-->
-                <img class="w-100" src="img34.jpg" >
+          <img class="w-100" src="img34.jpg" >
                 <img class="w-100" src="img35.jpg" >
             
             </div>
              
-                    </div>
+       
+          </div>
     
         </div>
               
@@ -655,7 +656,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="col-4">
                 <div>
-                    <img src="about-2.jpg"/>
+                    <img src="about-3.jpg"/>
                   </div><br>
                 <p class="about__txt" >	
                   WildSceneの理念としましては、【お客様と作り上げていく】を目標に製品開発を心がげています。<br>
@@ -664,7 +665,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="col-4">
                 <div>
-                    <img src="about-3.jpg"/>
+                    <img src="about-2.jpg"/>
                   </div><br>
                 <p class="about__txt" >	
                   Wild Sceneではオリジナルのメタルジグ「Wild Scene（ワイルドシーン）」をはじめ、当店こだわりのソルトルアーを多数取り扱っております！ <br>
@@ -903,7 +904,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   そもそも気室とは、空気によって膨らみ浮力体となる部分で、この部分に穴が開くとライフジャケットとしての存在意義を失いかねません。では、使用上問題がない気室の定義について確認してみましょう。<br>	
                   日本の国交省は塩化ビニルで作成された気室について、使用上問題がないと判断できる条件を下記の通り定めています。<br>	
                   ・膨張後24時間経過時に浮力を7.5kg以上に保てる<br>	
-                  ・二酸化炭素の減少度を−5%以下に抑えられる<br>	
+                  ・二酸化炭素の減少度を－5%以下に抑えられる<br>	
                   しかし、ワイルドシーンのライフジャケットは安全性の追求にこだわり、これらの条件よりも厳しい国際基準IMOに準拠した規格で気室を開発しました。<br>	<br>	
                  <span class="moreText">【約3日間の持続力】<br>
                   結果、気室における二酸化炭素減少率の比較実験で、膨張後72時間経過しても減少率を約0%に近づけることに成功。<br>	
@@ -1319,12 +1320,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
     
             <!--<img class="w-100"  src="img24.jpg" />-->
-           <img class="w-100" src="img34.jpg" >
+            <img class="w-100" src="img34.jpg" >
                 <img class="w-100" src="img35.jpg" >
         
         </div>
        	
-   	
+ 
       </div>
 
     </div>
@@ -1337,7 +1338,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <section class="p-contents01" >
            
               <div class="c-section">	
-                <p class="content5Title">〜安全で充実したFISHING Lifeを応援します〜</p>
+                <p class="content5Title">～安全で充実したFISHING Lifeを応援します～</p>
               <div class="row section4 mb-5 readmore">
                 <div class="col-7">
                   <p class="p-contents01__title">水辺の安全に対して</p>
@@ -1696,7 +1697,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 </footer>
 
-<a id="scroll-to-top" class="point_color_A" href="#" title="Scroll to Top" style="display: none;">?</a>
+<a id="scroll-to-top" class="point_color_A" href="#" title="Scroll to Top" style="display: none;"></a>
 
 
 
